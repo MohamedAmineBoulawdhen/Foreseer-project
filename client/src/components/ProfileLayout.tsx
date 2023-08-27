@@ -1,23 +1,9 @@
 import { useState } from "react";
 import ProfileModal from "./ProfileModal";
+import formatValue from "../utils/formatValue";
 
 function ProfileLayout({ profile }: { profile: any }) {
   const [showModal, setShowModal] = useState(false);
-  {
-    /*follower_count:877050
-following_count:144
-biography:"Host of The Minority Mindset Show
-Chief Money Nerd @briefsmediaofficial 
-👇 Get some FREE stuff!"
-full_name:𝐉𝐚𝐬𝐩𝐫𝐞𝐞𝐭 𝐒𝐢𝐧𝐠𝐡
-**contact_phone_number:
-**city_name:"New York
-**public_email:mike@example.com
-*username:traderkang
-engagementRate:0.46646764952606073
-sentimentAnalysis
-categories:Entrepreneur-Investor-Crypto-Daily Trader-Stocks */
-  }
   return (
     <>
       <div
@@ -52,14 +38,16 @@ categories:Entrepreneur-Investor-Crypto-Daily Trader-Stocks */
                 <a className="mx-5   ">
                   <div aria-label="Github" role="img">
                     <span className="font-semibold">Followers</span>{" "}
-                    <span className="font-black">{profile.follower_count}</span>
+                    <span className="font-black">
+                      {formatValue(profile.follower_count)}
+                    </span>
                   </div>
                 </a>
                 <a className="mx-5   ">
                   <div aria-label="Twitter" role="img">
                     <span className="font-semibold">Following</span>{" "}
                     <span className="font-black">
-                      {profile.following_count}
+                      {formatValue(profile.following_count)}
                     </span>
                   </div>
                 </a>

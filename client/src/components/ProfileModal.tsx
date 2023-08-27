@@ -1,5 +1,7 @@
 import { Fragment, useEffect, useRef, useState } from "react";
 import { Dialog, Transition } from "@headlessui/react";
+import SentimentBarChart from "./SentimentBarChart";
+import EmotionPieChart from "./EmotionPieChart";
 // import { ExclamationTriangleIcon } from "@heroicons/react/24/outline";
 
 function ProfileModal({
@@ -122,77 +124,9 @@ function ProfileModal({
                         </div>
                       </div>
                     </div>
-                    <div className="w-full pt-5">
-                      <table className="text-xl ">
-                        <tbody>
-                          <tr>
-                            <td className="px-2 py-2 text-gray-500 font-semibold">
-                              Emotions
-                            </td>
-                          </tr>
-                          <tr>
-                            <td className="pl-12 py-2">Positive:</td>
-                            <td className="px-2 py-2">
-                              {" "}
-                              {profile.sentimentAnalysis.emotions[0].value}
-                            </td>
-                          </tr>
-                          <tr>
-                            <td className="pl-12 py-2">Negative:</td>
-                            <td className="px-2 py-2">
-                              {" "}
-                              {profile.sentimentAnalysis.emotions[1].value}
-                            </td>
-                          </tr>
-                          <tr>
-                            <td className="px-2 py-2 text-gray-500 font-semibold">
-                              Feelings
-                            </td>
-                          </tr>
-                          <tr>
-                            <td className="pl-12 py-2">Sad</td>
-                            <td className="px-2 py-2">
-                              {" "}
-                              {profile.sentimentAnalysis.feelings[0].value}
-                            </td>
-                          </tr>
-                          <tr>
-                            <td className="pl-12 py-2">Happy</td>
-                            <td className="px-2 py-2">
-                              {" "}
-                              {profile.sentimentAnalysis.feelings[1].value}
-                            </td>
-                          </tr>
-                          <tr>
-                            <td className="pl-12 py-2">Anger</td>
-                            <td className="px-2 py-2">
-                              {" "}
-                              {profile.sentimentAnalysis.feelings[2].value}
-                            </td>
-                          </tr>
-                          <tr>
-                            <td className="pl-12 py-2">Love</td>
-                            <td className="px-2 py-2">
-                              {" "}
-                              {profile.sentimentAnalysis.feelings[3].value}
-                            </td>
-                          </tr>
-                          <tr>
-                            <td className="pl-12 py-2">Hate</td>
-                            <td className="px-2 py-2">
-                              {" "}
-                              {profile.sentimentAnalysis.feelings[4].value}
-                            </td>
-                          </tr>
-                          <tr>
-                            <td className="pl-12 py-2">Surprise</td>
-                            <td className="px-2 py-2">
-                              {" "}
-                              {profile.sentimentAnalysis.feelings[5].value}
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
+                    <div className="w-full pt-5 flex mx-auto flex-col 2xl:flex-row xl:flex-row lg:flex-row md:flex-col sm:flex-col">
+                      <EmotionPieChart profile={profile} />
+                      <SentimentBarChart profile={profile} />
                     </div>
                   </div>
 

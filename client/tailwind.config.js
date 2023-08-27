@@ -9,6 +9,9 @@ export default {
       maxWidth: {
         "3xl": "70rem",
       },
+      screens: {
+        mobile: { max: "640px" },
+      },
     },
   },
   plugins: [],

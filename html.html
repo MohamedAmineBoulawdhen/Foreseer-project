@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <title>Pie Chart with CSS</title>
+    <style>
+      .chart {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background: conic-gradient(
+          from -90deg,
+          #ff3737 0% 71%,
+          #6b6bf7 0% 100%
+        );
+        display: inline-block;
+      }
+
+      .color-box {
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        margin-right: 8px;
+      }
+
+      .love-box {
+        background-color: rgb(255, 56, 56);
+      }
+
+      .hate-box {
+        background-color: #6b6bf7;
+      }
+    </style>
+  </head>
+  <body class="flex items-center justify-center h-screen bg-gray-100">
+    <div class="text-center">
+      <div class="chart mx-auto mb-4"></div>
+      <div class="flex items-center">
+        <div class="color-box love-box"></div>
+        <div class="text-lg font-semibold">Love: 71%</div>
+      </div>
+      <div class="flex items-center">
+        <div class="color-box hate-box"></div>
+        <div class="text-lg font-semibold">Hate: 29%</div>
+      </div>
+    </div>
+  </body>
+</html>

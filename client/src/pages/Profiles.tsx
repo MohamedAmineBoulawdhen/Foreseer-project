@@ -4,6 +4,7 @@ import Pagination from "../components/Pagination";
 import { useEffect } from "react";
 import { loadProfiles } from "../features/profileSlice";
 import store from "../store/store";
+import SearchBar from "../components/SearchBar";
 
 function Profiles() {
   const getProfiles = useSelector((state: any) => {
@@ -51,7 +52,7 @@ function Profiles() {
   };
   return (
     <>
-      {/* <h1 className="text-3xl font-bold underline">Hello world!</h1> */}
+      <SearchBar />
       <div className="mb-16">
         {/*  bg-gray-100 */}
         <div className="w-full px-10 pt-10">
