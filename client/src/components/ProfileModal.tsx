@@ -64,7 +64,7 @@ function ProfileModal({
                       <div className="flex mx-auto sm:mr-10 sm:m-0 ">
                         <div className="items-center justify-center w-20 h-20 m-auto -mr-6 sm:w-32 sm:h-32 mobile:mx-auto">
                           <img
-                            src={profile.profilePhoto}
+                            src={`data:image/jpeg;base64,${profile.base64}`}
                             alt={`Display Picture of ${profile.full_name}`}
                             role="img"
                             crossOrigin="anonymous"
