@@ -2,7 +2,7 @@ const SentimentBarChart = ({ profile }: { profile: any }) => {
   return (
     <div className="flex flex-col items-center w-full max-w-screen-md p-6 pb-6 bg-white rounded-lg shadow-xl sm:p-8">
       <div className="flex flex-col items-center w-full max-w-screen-md p-6 pb-6 sm:p-8">
-        <h2 className="text-xl font-bold">Feelings</h2>
+        <h2 className="text-xl font-bold mb-10">Feelings</h2>
         <span className="text-sm font-semibold text-gray-500"></span>
         <div className="flex items-end flex-grow w-full mt-16 space-x-2 sm:space-x-3">
           {profile.sentimentAnalysis.feelings.map(

@@ -2,15 +2,15 @@ import { useState } from "react";
 function DopdownList({
   options,
   onSelect,
-  categorie,
+  category,
 }: {
   options: string[];
   onSelect: any;
-  categorie: string;
+  category: string;
 }) {
   const [isOpen, setIsOpen] = useState(false);
   const handleSelect = (option: any) => {
-    console.log(option);
+    // console.log(option);
     onSelect(option);
     setIsOpen(false);
   };
@@ -27,7 +27,7 @@ function DopdownList({
             aria-expanded={isOpen ? "true" : "false"}
             onClick={() => setIsOpen(!isOpen)}
           >
-            {categorie ? categorie : "Select an option"}
+            {category ? category : "Select A Category"}
             <svg
               className="-mr-1 ml-2 h-5 w-5"
               xmlns="http://www.w3.org/2000/svg"

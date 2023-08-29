@@ -45,7 +45,10 @@ export const ProfileSchema = new mongoose.Schema(
     categories: [[String, Number]],
     categoriesByWordCloud: [[String, Number]],
     profilePhoto: String,
+    base64: String,
   },
   { timestamps: true, strict: true }
 );
+ProfileSchema.index({ follower_count: 1, engagementRate: 1 });
+ProfileSchema.index({ "categories.0": 1 });
 export const ProfileModel = mongoose.model("profile", ProfileSchema);

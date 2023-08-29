@@ -10,12 +10,24 @@ const api = axios.create({
 export const loadProfiles = createAsyncThunk(
   "loadPofiles", //must be unique
   async (
-    { page, pageSize }: { page: number; pageSize: number },
+    {
+      page,
+      pageSize,
+      followers,
+      engagementRate,
+      category,
+    }: {
+      page: number;
+      pageSize: number;
+      followers: number;
+      engagementRate: number;
+      category: string;
+    },
     { rejectWithValue }
   ) => {
     try {
       const response = await api.get(
-        `/profiles?page=${page}&pageSize=${pageSize}`
+        `/profiles?page=${page}&pageSize=${pageSize}&engagementRate=${engagementRate}&followers=${followers}&category=${category}`
       );
       return response.data;
     } catch (error: any) {

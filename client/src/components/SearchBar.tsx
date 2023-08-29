@@ -1,24 +1,44 @@
-import { useState } from "react";
 import RangeBar from "./RangeBar";
 import DopdownList from "./DopdownList";
 
-function SearchBar() {
-  const [followerRange, setFollowerRange] = useState(4000);
-  const [engagementRate, setEngagementRateRange] = useState(0.1);
-  const [categorie, setCategorie] = useState("");
-  console.log(categorie);
+function SearchBar({
+  followers,
+  engagementRate,
+  category,
+  setFollowers,
+  setEngagementRateRange,
+  setCategory,
+  confirmFilter,
+  clearFilter,
+}: {
+  followers: any;
+  engagementRate: any;
+  category: any;
+  setFollowers: any;
+  setEngagementRateRange: any;
+  setCategory: any;
+  confirmFilter: any;
+  clearFilter: any;
+}) {
+  // console.log(category);
   const categories: string[] = [
     "Forex",
     "Future",
     "Crypto",
     "Stocks",
-    "Daily Trader",
-    "Swing",
-    "Trader",
-    "Investor",
-    "Mentor",
-    "Analysist",
+    "Daily Trader ",
+    " Swing Trader ",
+    "Investor ",
+    "Mentor ",
+    " Analysist",
   ];
+  const isButtonDisabled = !(
+    followers != 1000 ||
+    engagementRate != 0 ||
+    category != ""
+  );
+
+  // console.log(followers, engagementRate, category);
   return (
     <div className="flex items-center justify-around p-8 bg-white rounded-lg shadow-lg flex-row mobile:flex-col 2xl:flex-row xl:flex-row lg:flex-row md:flex-row sm:flex-col xl:space-y-0 lg:space-y-0 md:space-y-0 sm:space-y-4 mobile:space-y-4">
       <RangeBar
@@ -27,22 +47,51 @@ function SearchBar() {
         min={0}
         max={10}
         step={0.01}
+        printedText="Engagement Rate >= "
       />
       <RangeBar
-        setRange={setFollowerRange}
-        range={followerRange}
+        setRange={setFollowers}
+        range={followers}
         min={1000}
         max={60000000}
         step={1000}
+        printedText="Followers >= "
       />
       <DopdownList
         options={categories}
-        onSelect={setCategorie}
-        categorie={categorie}
+        onSelect={setCategory}
+        category={category}
       />
 
-      <button className="inline-flex justify-between px-4 py-2 text-sm font-medium text-gray-700 bg-blue-100 border rounded-lg shadow-sm hover:bg-blue-50 focus:outline-none focus-visible:ring focus-visible:ring-opacity-75 focus-visible:ring-blue-300 -mt-4 w-auto">
+      <button
+        className={`inline-flex justify-between px-4 py-2 text-sm font-medium ${
+          isButtonDisabled
+            ? "text-gray-400 bg-gray-200 cursor-not-allowed"
+            : "text-gray-700 bg-blue-100 hover:bg-blue-200"
+        } border rounded-lg shadow-sm focus:outline-none focus-visible:ring ${
+          isButtonDisabled
+            ? "focus-visible:ring-opacity-0"
+            : "focus-visible:ring-opacity-75 focus-visible:ring-blue-300"
+        } -mt-4 w-auto`}
+        disabled={isButtonDisabled}
+        onClick={confirmFilter}
+      >
         Confirm Choices
+      </button>
+      <button
+        className={`inline-flex justify-between px-4 py-2 text-sm font-medium ${
+          isButtonDisabled
+            ? "text-gray-400 bg-gray-200 cursor-not-allowed"
+            : "text-gray-700 bg-red-100 hover:bg-red-200"
+        } border rounded-lg shadow-sm focus:outline-none focus-visible:ring ${
+          isButtonDisabled
+            ? "focus-visible:ring-opacity-0"
+            : "focus-visible:ring-opacity-75 focus-visible:ring-red-300"
+        } -mt-4 w-auto`}
+        disabled={isButtonDisabled}
+        onClick={clearFilter}
+      >
+        Clear Filter
       </button>
     </div>
   );

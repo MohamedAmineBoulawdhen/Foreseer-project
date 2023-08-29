@@ -21,12 +21,10 @@ const app = express();
 //log type request _ status _ response time _ size
 app.use(morgan("dev"));
 // Enable CORS for all routes
-app.use((req, res, next) => {
-  res.setHeader("Access-Control-Allow-Origin", "http://localhost:5173"); // Replace with your frontend's origin
-  res.setHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
-  next();
-});
+const corsOptions = {
+  origin: "http://localhost:5173",
+};
+app.use(cors(corsOptions));
 
 //enable http response compression
 app.use(compression());

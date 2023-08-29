@@ -6,19 +6,21 @@ function RangeBar({
   min,
   max,
   step,
+  printedText,
 }: {
   setRange: any;
   range: any;
   min: number;
   max: number;
   step: any;
+  printedText: string;
 }) {
   const changedRange = (e: any) => {
     const newRangeValue = Number.isFinite(range)
       ? parseFloat(e.target.value)
       : parseInt(e.target.value);
     setRange(newRangeValue);
-    console.log(range);
+    // console.log(range);
   };
   return (
     <div style={{ width: "30%" }}>
@@ -41,7 +43,9 @@ function RangeBar({
         <span>{formatValue(min)}</span>
         <span>{max > 1000 ? formatValue(max) : max}</span>
       </div>
-      <p>Selected Value: {max >= 1000 ? formatValue(range) : range}</p>
+      <p>
+        {printedText} {max >= 1000 ? formatValue(range) : range}
+      </p>
     </div>
   );
 }

@@ -4,12 +4,14 @@ function Pagination({
   totalProfiles,
   next,
   prev,
+  pageSize,
 }: {
   currentPage: any;
   totalPages: any;
   totalProfiles: any;
   next: any;
   prev: any;
+  pageSize: number;
 }) {
   return (
     <div className="flex items-center justify-between border-t border-gray-200 bg-white px-4 py-3 sm:px-6">
@@ -30,12 +32,15 @@ function Pagination({
       <div className="hidden sm:flex sm:flex-1 sm:items-center sm:justify-between">
         <div>
           <p className="text-sm text-gray-700">
-            Showing <span className="font-medium">{currentPage * 10 - 9} </span>
+            Showing{" "}
+            <span className="font-medium">
+              {(currentPage - 1) * pageSize + 1}{" "}
+            </span>
             to{" "}
             <span className="font-medium">
-              {currentPage * 10 > totalProfiles
+              {currentPage * pageSize > totalProfiles
                 ? totalProfiles
-                : currentPage * 10}{" "}
+                : currentPage * pageSize}{" "}
             </span>
             of <span className="font-medium">{totalProfiles} </span>
             results / Page {currentPage} out of {totalPages} pages
@@ -48,7 +53,7 @@ function Pagination({
           >
             <div
               onClick={prev}
-              className="relative inline-flex items-center rounded-l-md px-2 py-2 text-gray-400 ring-1 ring-inset ring-gray-300 hover:bg-gray-50 focus:z-20 focus:outline-offset-0"
+              className="relative inline-flex items-center rounded-l-md px-2 py-2 text-gray-400 ring-1 ring-inset ring-gray-300 hover:bg-gray-50 focus:z-20 focus:outline-offset-0 cursor-pointer"
             >
               <span className="sr-only">Previous</span>
               <svg
@@ -66,7 +71,7 @@ function Pagination({
             </div>
             <div
               onClick={next}
-              className="relative inline-flex items-center rounded-r-md px-2 py-2 text-gray-400 ring-1 ring-inset ring-gray-300 hover:bg-gray-50 focus:z-20 focus:outline-offset-0"
+              className="relative inline-flex items-center rounded-r-md px-2 py-2 text-gray-400 ring-1 ring-inset ring-gray-300 hover:bg-gray-50 focus:z-20 focus:outline-offset-0 cursor-pointer"
             >
               <span className="sr-only">Next</span>
               <svg

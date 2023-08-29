@@ -2,6 +2,7 @@ import { Fragment, useEffect, useRef, useState } from "react";
 import { Dialog, Transition } from "@headlessui/react";
 import SentimentBarChart from "./SentimentBarChart";
 import EmotionPieChart from "./EmotionPieChart";
+import formatValue from "../utils/formatValue";
 // import { ExclamationTriangleIcon } from "@heroicons/react/24/outline";
 
 function ProfileModal({
@@ -59,9 +60,9 @@ function ProfileModal({
               >
                 <Dialog.Panel className="relative transform overflow-hidden rounded-lg bg-white text-left shadow-xl transition-all sm:my-8 sm:w-full sm:max-w-3xl ">
                   <div className="w-full  px-6 py-6">
-                    <div className="flex flex-col items-start w-full m-auto sm:flex-row">
-                      <div className="flex mx-auto sm:mr-10 sm:m-0">
-                        <div className="items-center justify-center w-20 h-20 m-auto -mr-6 sm:w-32 sm:h-32">
+                    <div className="flex flex-col items-start w-full m-auto sm:flex-row ">
+                      <div className="flex mx-auto sm:mr-10 sm:m-0 ">
+                        <div className="items-center justify-center w-20 h-20 m-auto -mr-6 sm:w-32 sm:h-32 mobile:mx-auto">
                           <img
                             src={profile.profilePhoto}
                             alt={`Display Picture of ${profile.full_name}`}
@@ -71,16 +72,17 @@ function ProfileModal({
                           />
                         </div>
                       </div>
-                      <div className="flex flex-col mt-0 mx-auto my-auto sm:pt-0 sm:mx-0 ">
-                        <div className="flex flex-col mx-auto sm:flex-row sm:mx-0 ">
+
+                      <div className="flex flex-col mt-0 mx-auto my-auto sm:pt-0 sm:mx-0">
+                        <div className="flex flex-col mx-auto sm:flex-row sm:mx-0  justify-start ">
                           <h2 className="flex pr-4 text-xl  text-gray-900 sm:text-3xl font-semibold">
                             {profile.full_name}
                           </h2>
                         </div>
-                        <div className="flex items-center justify-between mt-10 space-x-2">
-                          <div className="flex">
+                        <div className="flex items-center justify-between mt-10 space-x-2 ">
+                          <div className="flex ">
                             <span className="mr-1 font-semibold">
-                              {profile.follower_count}{" "}
+                              {formatValue(profile.follower_count)}{" "}
                             </span>{" "}
                             Followers
                           </div>
@@ -92,7 +94,7 @@ function ProfileModal({
                           </div>
                         </div>
                       </div>
-                      <div className="flex flex-col pt-4 mx-auto my-auto sm:pt-0 sm:mx-0  md:pl-12 ">
+                      <div className="flex flex-col pt-4 mx-auto my-auto sm:pt-0 sm:mx-0  md:pl-12">
                         <div className="flex flex-col mx-auto sm:flex-row sm:mx-0 ">
                           <h5 className=" sm:pr-4   sm:text-base pl-1 flex items-center px-1 text-sm font-medium text-gray-900 bg-transparent  outline-none sm:ml-2   focus:outline-none pt-2 pr-44">
                             Categories
@@ -124,7 +126,7 @@ function ProfileModal({
                         </div>
                       </div>
                     </div>
-                    <div className="w-full pt-5 flex mx-auto flex-col 2xl:flex-row xl:flex-row lg:flex-row md:flex-col sm:flex-col">
+                    <div className="w-full pt-5 flex mx-auto flex-col 2xl:flex-row xl:flex-row lg:flex-row md:flex-col sm:flex-col ">
                       <EmotionPieChart profile={profile} />
                       <SentimentBarChart profile={profile} />
                     </div>
