@@ -26,11 +26,11 @@ function SearchBar({
     "Future",
     "Crypto",
     "Stocks",
-    "Daily Trader ",
-    " Swing Trader ",
-    "Investor ",
-    "Mentor ",
-    " Analysist",
+    "Daily%20Trader%20",
+    "%20Swing%20Trader%20",
+    "Investor%20",
+    "Mentor%20",
+    "%20Analysist",
   ];
   const isButtonDisabled = !(
     followers != 1000 ||

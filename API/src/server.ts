@@ -5,15 +5,15 @@ import compression from "compression";
 import dotenv from "dotenv";
 import morgan from "morgan";
 import router from "./routes/index";
-import { v2 as cloudinary } from "cloudinary";
+// import { v2 as cloudinary } from "cloudinary";
 // import runCloudinary from "./utils/cloudinary";
 dotenv.config({ path: __dirname + "/../config/.env" });
 
-cloudinary.config({
-  cloud_name: process.env.Cloud_Name,
-  api_key: process.env.Api_Key,
-  api_secret: process.env.Api_Secret,
-});
+// cloudinary.config({
+//   cloud_name: process.env.Cloud_Name,
+//   api_key: process.env.Api_Key,
+//   api_secret: process.env.Api_Secret,
+// });
 
 const port = process.env.PORT || 8000;
 const app = express();

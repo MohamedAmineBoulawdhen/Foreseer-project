@@ -27,7 +27,7 @@ function DopdownList({
             aria-expanded={isOpen ? "true" : "false"}
             onClick={() => setIsOpen(!isOpen)}
           >
-            {category ? category : "Select A Category"}
+            {category ? decodeURIComponent(category) : "Select A Category"}
             <svg
               className="-mr-1 ml-2 h-5 w-5"
               xmlns="http://www.w3.org/2000/svg"
@@ -58,7 +58,7 @@ function DopdownList({
                 className="py-1 px-4 cursor-pointer hover:bg-gray-100 w-40"
                 role="menuitem"
               >
-                {option}
+                {decodeURIComponent(option)}
               </div>
             ))}
         </div>

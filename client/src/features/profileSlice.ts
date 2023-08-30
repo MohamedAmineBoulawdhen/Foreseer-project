@@ -81,6 +81,7 @@ interface Profile {
   categories: [[string, number]];
   categoriesByWordCloud: [[string, number]];
   profilePhoto: string;
+  base64: string;
 }
 export interface ProfileState {
   profiles: Profile[];

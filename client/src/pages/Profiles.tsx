@@ -36,7 +36,7 @@ function Profiles() {
     return <ProfileLayout profile={profile} key={profile._id} />;
   });
   useEffect(() => {
-    if (loaderData) {
+    if (!searchParams.toString().includes("category")) {
       setsearchParams(loaderData);
     }
   }, []);
