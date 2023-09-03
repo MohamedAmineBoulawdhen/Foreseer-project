@@ -88,6 +88,7 @@ export interface ProfileState {
   currentPage: number;
   totalPages: number;
   totalProfiles: number;
+  isLoading: boolean;
   error: string | null;
 }
 
@@ -96,6 +97,7 @@ const initialState: ProfileState = {
   currentPage: 0,
   totalPages: 0,
   totalProfiles: 0,
+  isLoading: false,
   error: null,
 };
 
@@ -115,15 +117,20 @@ const profileSlice = createSlice({
   },
   extraReducers: (builder) => {
     builder
+      .addCase(loadProfiles.pending, (state, action: PayloadAction<any>) => {
+        state.isLoading = true;
+      })
       .addCase(loadProfiles.fulfilled, (state, action: PayloadAction<any>) => {
         state.profiles = action.payload.profiles;
         state.currentPage = action.payload.currentPage;
         state.totalPages = action.payload.totalPages;
         state.totalProfiles = action.payload.totalProfiles;
+        state.isLoading = false;
         state.error = null;
       })
       .addCase(loadProfiles.rejected, (state, action: PayloadAction<any>) => {
         state.profiles = [];
+        state.isLoading = false;
         state.error = action.payload;
       });
   },

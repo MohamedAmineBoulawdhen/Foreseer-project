@@ -7,6 +7,7 @@ import { loadProfiles } from "../features/profileSlice";
 import store from "../store/store";
 import SearchBar from "../components/SearchBar";
 import { useLoaderData } from "react-router-dom";
+import Spinner from "../utils/Spinner";
 
 function Profiles() {
   const loaderData = useLoaderData();
@@ -30,6 +31,9 @@ function Profiles() {
     return state.profile.totalProfiles;
   });
 
+  const isLoading: boolean = useSelector((state: any) => {
+    return state.profile.isLoading;
+  });
   const showProfiles = getProfiles.map((profile: any) => {
     return <ProfileLayout profile={profile} key={profile._id} />;
   });
@@ -165,7 +169,15 @@ function Profiles() {
               role="list"
               className="lg:flex md:flex sm:flex items-center xl:justify-around flex flex-wrap md:justify-around sm:justify-around lg:justify-around "
             >
-              {showProfiles}
+              {isLoading ? (
+                <Spinner />
+              ) : showProfiles.length != 0 ? (
+                showProfiles
+              ) : (
+                <h1 className="text-red-500 text-2xl text-center my-28">
+                  "No Results Match Your Search Criteria"
+                </h1>
+              )}
             </div>
             <div>
               <Pagination
