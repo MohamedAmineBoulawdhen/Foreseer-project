@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { useSelector } from "react-redux";
 import ProfileLayout from "../components/ProfileLayout";
 import Pagination from "../components/Pagination";
@@ -6,10 +6,9 @@ import Pagination from "../components/Pagination";
 import { loadProfiles } from "../features/profileSlice";
 import store from "../store/store";
 import SearchBar from "../components/SearchBar";
-import { useLoaderData, useSearchParams } from "react-router-dom";
+import { useLoaderData } from "react-router-dom";
 
 function Profiles() {
-  const [searchParams, setsearchParams] = useSearchParams();
   const loaderData = useLoaderData();
   const [followers, setFollowers] = useState(loaderData.followers);
   const [engagementRate, setEngagementRateRange] = useState(
@@ -17,7 +16,6 @@ function Profiles() {
   );
   const [category, setCategory] = useState(loaderData.category);
 
-  // console.log(loaderData);
   const getProfiles = useSelector((state: any) => {
     return state.profile.profiles;
   });
@@ -35,32 +33,28 @@ function Profiles() {
   const showProfiles = getProfiles.map((profile: any) => {
     return <ProfileLayout profile={profile} key={profile._id} />;
   });
-  useEffect(() => {
-    if (!searchParams.toString().includes("category")) {
-      setsearchParams(loaderData);
-    }
-  }, []);
-  // console.log(searchParams.get("page"));
+
   const next = async () => {
     if (currentPage + 1 <= totalPages) {
+      const url1 = new URL(window.location);
+      url1.searchParams.set(
+        "page",
+        `${parseInt(url1.searchParams.get("page")) + 1}`
+      );
+      url1.searchParams.set("followers", `${followers}`);
+      url1.searchParams.set("engagementRate", `${engagementRate}`);
+      url1.searchParams.set("category", `${category}`);
+      window.history.pushState(null, "", url1.toString());
       await store.dispatch(
         loadProfiles({
-          page: parseInt(searchParams.get("page")) + 1,
-          pageSize: parseInt(searchParams.get("pageSize")),
-          followers: parseInt(searchParams.get("followers")),
-          engagementRate: parseInt(searchParams.get("engagementRate")),
-          category: searchParams.get("category"),
+          page: parseInt(url1.searchParams.get("page")),
+          pageSize: parseInt(url1.searchParams.get("pageSize")),
+          followers: parseInt(url1.searchParams.get("followers")),
+          engagementRate: parseFloat(url1.searchParams.get("engagementRate")),
+          category: category || "",
         })
       );
-      setsearchParams((prev) => {
-        return {
-          page: parseInt(prev.get("page")) + 1,
-          pageSize: parseInt(prev.get("pageSize")),
-          followers: parseInt(searchParams.get("followers")),
-          engagementRate: parseInt(searchParams.get("engagementRate")),
-          category: searchParams.get("category"),
-        };
-      });
+
       window.scrollTo({
         top: 0,
         behavior: "smooth",
@@ -69,53 +63,54 @@ function Profiles() {
     return null;
   };
   const confirmFilter = async () => {
+    const url1 = new URL(window.location);
+    url1.searchParams.set("page", `${1}`);
+    url1.searchParams.set(
+      "pageSize",
+      `${parseInt(url1.searchParams.get("pageSize")) || 10}`
+    );
+    url1.searchParams.set("followers", `${followers}`);
+    url1.searchParams.set("engagementRate", `${engagementRate}`);
+    url1.searchParams.set("category", `${category}`);
+    window.history.pushState(null, "", url1.toString());
     await store.dispatch(
       loadProfiles({
-        page: 0,
-        pageSize: parseInt(searchParams.get("pageSize")),
+        page: 1,
+        pageSize: parseInt(url1.searchParams.get("pageSize").toString()) || 10,
         followers: followers,
         engagementRate: engagementRate,
         category: category,
       })
     );
-    setsearchParams((prev) => {
-      return {
-        page: 0,
-        pageSize: parseInt(searchParams.get("pageSize")),
-        followers: followers,
-        engagementRate: engagementRate,
-        category: category,
-      };
-    });
+
     window.scrollTo({
       top: 0,
       behavior: "smooth",
     });
-    return console.log("confirmed");
+    return;
   };
   const clearFilter = async () => {
+    const url1 = new URL(window.location);
+    url1.searchParams.set("page", `1`);
+    url1.searchParams.set("pageSize", `${10}`);
+    url1.searchParams.set("followers", `${1000}`);
+    url1.searchParams.set("engagementRate", `${0}`);
+    url1.searchParams.set("category", `${""}`);
+    window.history.pushState(null, "", url1.toString());
     setFollowers(1000);
     setEngagementRateRange(0);
     setCategory("");
 
     await store.dispatch(
       loadProfiles({
-        page: 0,
-        pageSize: parseInt(searchParams.get("pageSize")),
+        page: 1,
+        pageSize: parseInt(url1.searchParams.get("pageSize")),
         followers: 1000,
         engagementRate: 0,
         category: "",
       })
     );
-    setsearchParams((prev) => {
-      return {
-        page: 0,
-        pageSize: parseInt(prev.get("pageSize")),
-        followers: 1000,
-        engagementRate: 0,
-        category: "",
-      };
-    });
+
     window.scrollTo({
       top: 0,
       behavior: "smooth",
@@ -123,24 +118,25 @@ function Profiles() {
   };
   const prev = async () => {
     if (currentPage - 1 >= 1) {
+      const url1 = new URL(window.location);
+      url1.searchParams.set(
+        "page",
+        `${parseInt(url1.searchParams.get("page")) - 1}`
+      );
+      url1.searchParams.set("followers", `${followers}`);
+      url1.searchParams.set("engagementRate", `${engagementRate}`);
+      url1.searchParams.set("category", `${category}`);
+      window.history.pushState(null, "", url1.toString());
       await store.dispatch(
         loadProfiles({
-          page: parseInt(searchParams.get("page")) - 1,
-          pageSize: parseInt(searchParams.get("pageSize")),
-          followers: parseInt(searchParams.get("followers")),
-          engagementRate: parseInt(searchParams.get("engagementRate")),
-          category: searchParams.get("category"),
+          page: parseInt(url1.searchParams.get("page")),
+          pageSize: parseInt(url1.searchParams.get("pageSize")),
+          followers: parseInt(url1.searchParams.get("followers")),
+          engagementRate: parseFloat(url1.searchParams.get("engagementRate")),
+          category: url1.searchParams.get("category") || "",
         })
       );
-      setsearchParams((prev) => {
-        return {
-          page: parseInt(prev.get("page")) - 1,
-          pageSize: parseInt(prev.get("pageSize")),
-          followers: parseInt(searchParams.get("followers")),
-          engagementRate: parseInt(searchParams.get("engagementRate")),
-          category: searchParams.get("category"),
-        };
-      });
+
       window.scrollTo({
         top: 0,
         behavior: "smooth",
@@ -178,7 +174,13 @@ function Profiles() {
                 totalProfiles={totalProfiles}
                 next={next}
                 prev={prev}
-                pageSize={parseInt(searchParams.get("pageSize"))}
+                pageSize={
+                  new URL(window.location).searchParams.get("pageSize")
+                    ? parseInt(
+                        new URL(window.location).searchParams.get("pageSize")
+                      )
+                    : 10
+                }
               />
             </div>
           </div>

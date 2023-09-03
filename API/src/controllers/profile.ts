@@ -10,9 +10,9 @@ export const getProfiles = async (
     const pageSize = parseInt(req.query.pageSize as string) || 10;
     const skip = (page - 1) * pageSize;
     const followers = parseInt(req.query.followers as string) || 0;
-    const engagementRate = parseInt(req.query.engagementRate as string) || 0;
     const category: any = req.query.category || "";
-
+    const engagementRate = parseFloat(req.query.engagementRate.toString()) || 0;
+    // console.log(engagementRate, followers);
     const projection =
       "follower_count following_count biography engagementRate full_name sentimentAnalysis categories profilePhoto username base64"; //optimizing the response time
 
