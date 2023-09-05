@@ -1,11 +1,11 @@
 import { useState } from "react";
 import { useSelector } from "react-redux";
-import ProfileLayout from "../components/ProfileLayout";
+import ProfileLayout from "../components/profilePage/ProfileLayout";
 import Pagination from "../components/Pagination";
 
 import { loadProfiles } from "../features/profileSlice";
 import store from "../store/store";
-import SearchBar from "../components/SearchBar";
+import SearchBar from "../components/profilePage/SearchBar";
 import { useLoaderData } from "react-router-dom";
 import Spinner from "../utils/Spinner";
 

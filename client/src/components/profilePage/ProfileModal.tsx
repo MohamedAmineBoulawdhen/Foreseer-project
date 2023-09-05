@@ -2,7 +2,7 @@ import { Fragment, useEffect, useRef, useState } from "react";
 import { Dialog, Transition } from "@headlessui/react";
 import SentimentBarChart from "./SentimentBarChart";
 import EmotionPieChart from "./EmotionPieChart";
-import formatValue from "../utils/formatValue";
+import formatValue from "../../utils/formatValue";
 // import { ExclamationTriangleIcon } from "@heroicons/react/24/outline";
 
 function ProfileModal({

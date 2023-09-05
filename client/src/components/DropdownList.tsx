@@ -1,5 +1,5 @@
 import { useState } from "react";
-function DopdownList({
+function DropdownList({
   options,
   onSelect,
   category,
@@ -67,4 +67,4 @@ function DopdownList({
   );
 }
 
-export default DopdownList;
+export default DropdownList;

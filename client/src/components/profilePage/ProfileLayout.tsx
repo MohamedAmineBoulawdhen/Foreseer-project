@@ -1,6 +1,6 @@
 import { useState } from "react";
 import ProfileModal from "./ProfileModal";
-import formatValue from "../utils/formatValue";
+import formatValue from "../../utils/formatValue";
 
 function ProfileLayout({ profile }: { profile: any }) {
   const [showModal, setShowModal] = useState(false);

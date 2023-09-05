@@ -1,5 +1,5 @@
-import RangeBar from "./RangeBar";
-import DopdownList from "./DopdownList";
+import RangeBar from "../RangeBar";
+import DropdownList from "../DropdownList";
 
 function SearchBar({
   followers,
@@ -57,7 +57,7 @@ function SearchBar({
         step={1000}
         printedText="Followers >= "
       />
-      <DopdownList
+      <DropdownList
         options={categories}
         onSelect={setCategory}
         category={category}
