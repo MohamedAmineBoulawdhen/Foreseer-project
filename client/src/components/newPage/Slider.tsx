@@ -28,10 +28,10 @@ const Slider = ({ items }) => {
                 index === 0 ? "ml-0" : "ml-4" // Adjust margin as needed
               }`}
             >
-              <div className="rounded overflow-hidden shadow-md bg-white border border-gray-200 justify-center h-96 min-w-80 flex flex-wrap">
-                {/* <p className="text-gray-600">{item.date}</p> */}
+              <div className="rounded  shadow-md bg-white border border-gray-200 justify-center h-96 min-w-80 flex flex-wrap">
+                <p className="text-gray-600">{item.date}</p>
                 <h2 className="text-2xl font-semibold mb-2">{item.title}</h2>
-                <p className="text-gray-800">{item.description}</p>
+                <p className="text-black-800">{item.description}</p>
               </div>
             </div>
           ))}

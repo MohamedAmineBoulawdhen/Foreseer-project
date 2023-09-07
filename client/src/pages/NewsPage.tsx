@@ -3,31 +3,31 @@ import { RichestPeopleTable } from "../components/newPage/RichestPeopleTable";
 import Slider from "../components/newPage/Slider";
 
 function NewsPage() {
-  const items = [
-    { date: 1, title: "Card 1", descripiton: "descripiton for Card 1" },
-    { date: 2, title: "Card 2", descripiton: "descripiton for Card 2" },
-    { date: 3, title: "Card 3", descripiton: "descripiton for Card 3" },
-    { date: 4, title: "Card 4", descripiton: "descripiton for Card 4" },
-    { date: 1, title: "Card 5", descripiton: "descripiton for Card 1" },
-    { date: 2, title: "Card 6", descripiton: "descripiton for Card 2" },
-    { date: 3, title: "Card 7", descripiton: "descripiton for Card 3" },
-    { date: 4, title: "Card 8", descripiton: "descripiton for Card 4" },
-    { date: 1, title: "Card 9", descripiton: "descripiton for Card 1" },
-    { date: 2, title: "Card 10", descripiton: "descripiton for Card 2" },
-    { date: 3, title: "Card 11", descripiton: "descripiton for Card 3" },
-    { date: 4, title: "Card 12", descripiton: "descripiton for Card 4" },
-    { date: 1, title: "Card 13", descripiton: "descripiton for Card 1" },
-    { date: 2, title: "Card 14", descripiton: "descripiton for Card 2" },
-    { date: 3, title: "Card 15", descripiton: "descripiton for Card 3" },
-    { date: 4, title: "Card 16", descripiton: "descripiton for Card 4" },
-    { date: 1, title: "Card 17", descripiton: "descripiton for Card 1" },
-    { date: 2, title: "Card 18", descripiton: "descripiton for Card 2" },
-    { date: 3, title: "Card 19", descripiton: "descripiton for Card 3" },
-    { date: 4, title: "Card 20", descripiton: "descripiton for Card 4" },
-    { date: 1, title: "Card 21", descripiton: "descripiton for Card 1" },
-    { date: 2, title: "Card 22", descripiton: "descripiton for Card 2" },
-    { date: 3, title: "Card 23", descripiton: "descripiton for Card 3" },
-    { date: 4, title: "Card 24", descripiton: "descripiton for Card 4" },
+  const eventItem = [
+    {
+      date: "August 14, 2023 UTC",
+      title: "BullBear AI AIBB",
+      descripiton:
+        "BullBear AI has announced that it will be conducting a burn of 100% of the AIBB in its Treasury Wallet. This event is scheduled to take place at 2 pm …",
+    },
+    {
+      date: "August 15, 2023 UTC",
+      title: "Bankless DAO BANK",
+      descripiton:
+        "Bankless DAO is set to host a webinar on August 15th at 2 pm UTC. The event will focus on Sobol, a tool used for mapping DAOs and organizations. This …",
+    },
+    {
+      date: "August 16, 2023 UTC",
+      title: "Bankless DAO BANK",
+      descripiton:
+        "Bankless DAO is set to host a webinar on August 16th at 2 pm UTC.The event will focus on Sesh, a discord bot, for time management, event creation, …",
+    },
+    {
+      date: "August 17, 2023 UTC",
+      title: "Bankless DAO BANK",
+      descripiton:
+        "Bankless DAO is set to host a knowledge session on wallet security. The session will cover the fundamentals of wallet usage and how to safeguard walle…",
+    },
     // Add more cards as needed
   ];
   const newsCategory: string[] = ["Coindar", "UToday", "Sport Event"];
@@ -56,7 +56,7 @@ function NewsPage() {
           />
         </div>
         <div className="m-10">
-          <Slider items={items} />
+          <Slider items={eventItem} />
         </div>
       </div>
       <div className="m-10 border rounded shadow bg-gray-50 py-10">
@@ -73,7 +73,7 @@ function NewsPage() {
           />
         </div>
         <div className="m-10">
-          <Slider items={items} />
+          <Slider items={eventItem} />
         </div>
       </div>
       <div className="m-10 border rounded shadow bg-gray-50 py-10">
