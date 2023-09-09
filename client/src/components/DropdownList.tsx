@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 function DropdownList({
   options,
   onSelect,
@@ -14,9 +14,24 @@ function DropdownList({
     onSelect(option);
     setIsOpen(false);
   };
+  const dropdownRef = useRef(null);
+  const handleClickOutside = (event: any) => {
+    if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
+      setIsOpen(false);
+    }
+  };
 
+  useEffect(() => {
+    // Add event listener to detect clicks outside of the dropdown
+    document.addEventListener("mousedown", handleClickOutside);
+
+    return () => {
+      // Remove the event listener when the component unmounts
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, []);
   return (
-    <div className="-mt-5 z-10 w-max">
+    <div className="-mt-5 z-10 w-max" ref={dropdownRef}>
       <div className="relative inline-block text-left">
         <div>
           <button

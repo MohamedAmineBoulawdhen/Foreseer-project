@@ -1,0 +1,1711 @@
+[
+  {
+    "BullBear AI AIBB": {
+      "eventName": "BullBear AI AIBB",
+      "eventSubject": "Token Burn",
+      "eventDescription": "BullBear AI has announced that it will be conducting a burn of 100% of the AIBB in its Treasury Wallet. This event is scheduled to take place at 2 pm …",
+      "eventAddingDate": "Added 13 hours ago",
+      "image": "https://coindar.org//images/coins/bullbear-ai/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "August 14, 2023 UTC"
+    },
+    "HOPR HOPR": {
+      "eventName": "HOPR HOPR",
+      "eventSubject": "Community Call",
+      "eventDescription": "HOPR will discuss project development with the community. The discussion will revolve around the pressing issues in the realm of crypto governance. To…",
+      "eventAddingDate": "Added 13 hours ago",
+      "image": "https://coindar.org//images/coins/hopr/64x64.png",
+      "eventType": "DAO",
+      "eventDate": "August 14, 2023 UTC"
+    },
+    "ZoidPay ZPAY": {
+      "eventName": "ZoidPay ZPAY",
+      "eventSubject": "Trivia Showdown",
+      "eventDescription": "ZoidPay is organizing a Trivia quiz on the 14th of August, at 17:00 UTC. The event will take place on their Discord platform. This is an opportunity f…",
+      "eventAddingDate": "Added 2 days ago",
+      "image": "https://coindar.org//images/coins/zoidpay/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 14, 2023 UTC"
+    },
+    "Dora Factory DORA": {
+      "eventName": "Dora Factory DORA",
+      "eventSubject": "Grant Submission Deadline Extension",
+      "eventDescription": "Dora Factory has announced an extension to the submission deadline for the Dora Grant DAO Round 4. The new deadline is now set for August 14th.The…",
+      "eventAddingDate": "Added 9 days ago",
+      "image": "https://coindar.org//images/coins/dora-factory/64x64.png",
+      "eventType": "DAO",
+      "eventDate": "August 14, 2023 UTC"
+    },
+    "dYdX DYDX": {
+      "eventName": "dYdX DYDX",
+      "eventSubject": "Public Testnet #2 Launch",
+      "eventDescription": "dYdX has announced that it will be sunsetting its first public testnet on August 7th at 17:00 UTC. This is being done in order to reset and launch the…",
+      "eventAddingDate": "Added 10 days ago",
+      "image": "https://coindar.org//images/coins/dydx/64x64.png",
+      "eventType": "Testing",
+      "eventDate": "August 14, 2023 UTC"
+    },
+    "MARS4 MARS4": {
+      "eventName": "MARS4 MARS4",
+      "eventSubject": "Mars Fashion Design Contest Ends",
+      "eventDescription": "The MARS4 announces a fashion design competition themed on Mars' future. In this contest, participants are required to showcase their innovative fashi…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/mars4/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 14, 2023 UTC"
+    },
+    "Offshift XFT": {
+      "eventName": "Offshift XFT",
+      "eventSubject": "Offshift v.2.0 CLI Testnet Release",
+      "eventDescription": "Offshift v.2.0 CLI Testnet Release",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/coins/offshift/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 14, 2023 UTC"
+    }
+  },
+  {
+    "Bankless DAO BANK": {
+      "eventName": "Bankless DAO BANK",
+      "eventSubject": "Webinar on Topic “How to Sobol”",
+      "eventDescription": "Bankless DAO is set to host a webinar on August 15th at 2 pm UTC. The event will focus on Sobol, a tool used for mapping DAOs and organizations. This …",
+      "eventAddingDate": "Added 13 hours ago",
+      "image": "https://coindar.org//images/coins/bankless-dao/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 15, 2023 UTC"
+    },
+    "LooksRare LOOKS": {
+      "eventName": "LooksRare LOOKS",
+      "eventSubject": "Maintenance",
+      "eventDescription": "LooksRare has announced that it will be conducting a database upgrade on the 15th of August, starting at 8AM UTC. The upgrade process is expected to l…",
+      "eventAddingDate": "Added 13 hours ago",
+      "image": "https://coindar.org//images/coins/looksrare/64x64.png",
+      "eventType": "General",
+      "eventDate": "August 15, 2023 UTC"
+    },
+    "Holyheld HH": {
+      "eventName": "Holyheld HH",
+      "eventSubject": "AMA on Twitter",
+      "eventDescription": "Holyheld is set to host a discussion with Nadim Chamoun from Avalanche. The conversation will focus on the utilization of assets from self-custody wal…",
+      "eventAddingDate": "Added 2 days ago",
+      "image": "https://coindar.org//images/coins/holyheld-2/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 15, 2023 UTC"
+    },
+    "Biconomy BICO": {
+      "eventName": "Biconomy BICO",
+      "eventSubject": "Avalanche Integration",
+      "eventDescription": "Biconomy has announced a new partnership with zeroone. This collaboration will result in the integration of Biconomy’s AA stack with zeroone, which wi…",
+      "eventAddingDate": "Added 2 days ago",
+      "image": "https://coindar.org//images/coins/biconomy/64x64.png",
+      "eventType": "Testing",
+      "eventDate": "August 15, 2023 UTC"
+    },
+    "BlackHat Coin BLKC": {
+      "eventName": "BlackHat Coin BLKC",
+      "eventSubject": "Token Burn",
+      "eventDescription": "BlackHat Coin will burn 250,000 BLKC tokens on August 15.",
+      "eventAddingDate": "Added 2 days ago",
+      "image": "https://coindar.org//images/coins/blackhat-coin/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "August 15, 2023 UTC"
+    },
+    "Railgun RAIL": {
+      "eventName": "Railgun RAIL",
+      "eventSubject": "AMA on Twitter",
+      "eventDescription": "Railgun is hosting a radio event on August 15, at 14:00 UTC. The discussion will be led by Ameen Soleimani from MolochDAO, Ekrem BAL from Chainway, an…",
+      "eventAddingDate": "Added 3 days ago",
+      "image": "https://coindar.org//images/coins/railgun/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 15, 2023 UTC"
+    },
+    "Hedera HBAR": {
+      "eventName": "Hedera HBAR",
+      "eventSubject": "Community Call",
+      "eventDescription": "Hedera is set to host Community Call on Discord on August 15, at 16:00 UTC. The call will provide updates on the Hedera Improvement Proposal (HIP), pr…",
+      "eventAddingDate": "Added 4 days ago",
+      "image": "https://coindar.org//images/coins/hedera-hashgraph/64x64.png",
+      "eventType": "DAO",
+      "eventDate": "August 15, 2023 UTC"
+    },
+    "BullBear AI AIBB": {
+      "eventName": "BullBear AI AIBB",
+      "eventSubject": "Listing on New Exchange",
+      "eventDescription": "BullBear AI (AIBB) has announced its upcoming listing on one of the top five centralized cryptocurrency exchanges. The event is scheduled for August 1…",
+      "eventAddingDate": "Added 9 days ago",
+      "image": "https://coindar.org//images/coins/bullbear-ai/64x64.png",
+      "eventType": "Exchange",
+      "eventDate": "August 15, 2023 UTC"
+    },
+    "Alien Worlds TLM": {
+      "eventName": "Alien Worlds TLM",
+      "eventSubject": "Metaversal Treasure Hunt 2.0 Competition",
+      "eventDescription": "Alien Worlds is set to host the second edition of its Metaversal Treasure Hunt. The event will start on August 1st and conclude on August 15th. Partic…",
+      "eventAddingDate": "Added 16 days ago",
+      "image": "https://coindar.org//images/coins/alien-worlds/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 15, 2023 UTC"
+    }
+  },
+  {
+    "Bankless DAO BANK": {
+      "eventName": "Bankless DAO BANK",
+      "eventSubject": "Webinar on Topic “How to Sesh”",
+      "eventDescription": "Bankless DAO is set to host a webinar on August 16th at 2 pm UTC.The event will focus on Sesh, a discord bot, for time management, event creation, …",
+      "eventAddingDate": "Added 12 hours ago",
+      "image": "https://coindar.org//images/coins/bankless-dao/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 16, 2023 UTC"
+    },
+    "Oath OATH": {
+      "eventName": "Oath OATH",
+      "eventSubject": "AMA on Twitter",
+      "eventDescription": "Oath has scheduled a Twitter Space on August 16th, at 18:00 UTC. The discussion will feature Charles and Rhett Shipp from Gravita Protocol. The conver…",
+      "eventAddingDate": "Added 2 days ago",
+      "image": "https://coindar.org//images/coins/oath/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 16, 2023 UTC"
+    },
+    "Reserve Rights T... RSR": {
+      "eventName": "Reserve Rights T... RSR",
+      "eventSubject": "AMA on Discord",
+      "eventDescription": "Reserve Rights Token co-founder, Nevin Freeman, is scheduled to have a live conversation with the community on Discord. The event is set to take place…",
+      "eventAddingDate": "Added 2 days ago",
+      "image": "https://coindar.org//images/coins/reserve-rights/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 16, 2023 UTC"
+    },
+    "Venus XVS": {
+      "eventName": "Venus XVS",
+      "eventSubject": "AMA on Twitter",
+      "eventDescription": "Venus is set to host an AMA session with Steakhouse Financial. The session will focus on explaining the PSM and addressing any queries from the audien…",
+      "eventAddingDate": "Yesterday",
+      "image": "https://coindar.org//images/coins/venus/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 16, 2023 UTC"
+    },
+    "Caduceus CMP": {
+      "eventName": "Caduceus CMP",
+      "eventSubject": "AMA on Twitter",
+      "eventDescription": "Caduceus has announced that its founders will be conducting an AMA session on the 16th of August. The purpose of this session is to address any concer…",
+      "eventAddingDate": "Added 10 days ago",
+      "image": "https://coindar.org//images/coins/caduceus/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 16, 2023 UTC"
+    },
+    "Mummy Finance MMY": {
+      "eventName": "Mummy Finance MMY",
+      "eventSubject": "Token Swap",
+      "eventDescription": "Mummy Finance has announced the migration of esMMY. This process is set to commence on the 2nd of August and will run for a period of 14 days, conclud…",
+      "eventAddingDate": "Added 11 days ago",
+      "image": "https://coindar.org//images/coins/mummy-finance/64x64.png",
+      "eventType": "Swap",
+      "eventDate": "August 16, 2023 UTC"
+    },
+    "Decentraland MANA": {
+      "eventName": "Decentraland MANA",
+      "eventSubject": "Blockchain Futurist Conference",
+      "eventDescription": "Decentraland is set to host the Blockchain Futurist Conference. The event, which will take place in the virtual world of Decentraland, is scheduled fo…",
+      "eventAddingDate": "Added 12 days ago",
+      "image": "https://coindar.org//images/coins/decentraland/64x64.png",
+      "eventType": "Conference",
+      "eventDate": "August 16, 2023 UTC"
+    },
+    "Filecoin FIL": {
+      "eventName": "Filecoin FIL",
+      "eventSubject": "Sustainable Blockchain Summit",
+      "eventDescription": "Filecoin will take part at Sustainable Blockchain Summit",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/coins/filecoin/64x64.png",
+      "eventType": "Conference",
+      "eventDate": "August 16, 2023 UTC"
+    }
+  },
+  {
+    "Bankless DAO BANK": {
+      "eventName": "Bankless DAO BANK",
+      "eventSubject": "Webinar on Topic “Wallet Security Knowledge”",
+      "eventDescription": "Bankless DAO is set to host a knowledge session on wallet security. The session will cover the fundamentals of wallet usage and how to safeguard walle…",
+      "eventAddingDate": "Added 12 hours ago",
+      "image": "https://coindar.org//images/coins/bankless-dao/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 17, 2023 UTC"
+    },
+    "Across Protocol ACX": {
+      "eventName": "Across Protocol ACX",
+      "eventSubject": "AMA on Twitter",
+      "eventDescription": "Across Protocol will host an AMA on Telegram with ZKitty. The event will take place on August 17th at 3 pm (UTC).",
+      "eventAddingDate": "Added 13 hours ago",
+      "image": "https://coindar.org//images/coins/across-protocol/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 17, 2023 UTC"
+    },
+    "Sora XOR": {
+      "eventName": "Sora XOR",
+      "eventSubject": "AMA on Telegram",
+      "eventDescription": "Sora is hosting an Ask Me Anything (AMA) session on August 17, at 11:00 UTC. The session will feature Makoto Takemiya and Beno, who will be available …",
+      "eventAddingDate": "Added 3 days ago",
+      "image": "https://coindar.org//images/coins/sora/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 17, 2023 UTC"
+    },
+    "Fidu FIDU": {
+      "eventName": "Fidu FIDU",
+      "eventSubject": "AMA on Twitter",
+      "eventDescription": "On August 17 at 17:00 UTC, Fidu will host an АМА session on Twiter. Participants will share their experiences in the DeFi).",
+      "eventAddingDate": "Added 3 days ago",
+      "image": "https://coindar.org//images/coins/fidu/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 17, 2023 UTC"
+    },
+    "FLOKI FLOKI": {
+      "eventName": "FLOKI FLOKI",
+      "eventSubject": "Guerrilla Narketing Contest Ends",
+      "eventDescription": "Floki hosts a Guerrilla Marketing Competition, a promotional activity that challenges participants to come up with original and creative ways to sprea…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/floki/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 17, 2023 UTC"
+    }
+  },
+  {
+    "Concordium CCD": {
+      "eventName": "Concordium CCD",
+      "eventSubject": "AMA",
+      "eventDescription": "Concordium will host an AMA with its founder, Lars Seier Christensen. The event is scheduled to take place on August 18th at 9:00 UTC.",
+      "eventAddingDate": "Added 13 days ago",
+      "image": "https://coindar.org//images/coins/concordium/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 18, 2023 UTC"
+    },
+    "Optimism OP": {
+      "eventName": "Optimism OP",
+      "eventSubject": "Hackathon",
+      "eventDescription": "Optimism will host a hackathon which will start on August 4th and continues till August 18th. Participants may share a prize pool of $24,000.",
+      "eventAddingDate": "Added 16 days ago",
+      "image": "https://coindar.org//images/coins/optimism/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 18, 2023 UTC"
+    },
+    "DexCheck DXCHECK": {
+      "eventName": "DexCheck DXCHECK",
+      "eventSubject": "Telegram Competition",
+      "eventDescription": "DexCheck is set to host its first Telegram trading bot competition. The competition is aimed at top traders and will reward the best in terms of profi…",
+      "eventAddingDate": "Added 21 days ago",
+      "image": "https://coindar.org//images/coins/dexcheck/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 18, 2023 UTC"
+    },
+    "Bitget Token BGB": {
+      "eventName": "Bitget Token BGB",
+      "eventSubject": "King's Cup Global Invitation Contest Ends",
+      "eventDescription": "Bitget is hosting The King's Cup Global Invitation campaign which is set to finish on August 18 at 2:00 UTC. This event features a substantial prize p…",
+      "eventAddingDate": "Added 28 days ago",
+      "image": "https://coindar.org//images/coins/bitget-token/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 18, 2023 UTC"
+    }
+  },
+  {
+    "PodFast FAST": {
+      "eventName": "PodFast FAST",
+      "eventSubject": "Mobile App Launch",
+      "eventDescription": "PodFast is set to launch its mobile application next week. This development is part of the company’s ongoing efforts to enhance its services and provi…",
+      "eventAddingDate": "Added 14 hours ago",
+      "image": "https://coindar.org//images/coins/podfast/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 20, 2023 UTC"
+    },
+    "Xana XETA": {
+      "eventName": "Xana XETA",
+      "eventSubject": "Game Creation Contest",
+      "eventDescription": "XANA is organizing a large-scale game competition. The prize rewards range from a minimum of $50,000 to a maximum of $100,000, which will be allocated…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/xana/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 20, 2023 UTC"
+    },
+    "Syscoin SYS": {
+      "eventName": "Syscoin SYS",
+      "eventSubject": "Hotep Nation Conference 2023 in Las Vegas",
+      "eventDescription": "Syscoin Team will be on the ground representing Syscoin and Rollux for the Hotep Nation Conference 2023 in Las Vegas, Nevada",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "August 20, 2023 UTC"
+    },
+    "RaceFi RACEFI": {
+      "eventName": "RaceFi RACEFI",
+      "eventSubject": "Giveaway",
+      "eventDescription": "RaceFi to celebrate the release of RaceFi Season 1, a new round of Racing Leaderboard will restart on June 12th",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/coins/racefi/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "August 20, 2023 UTC"
+    },
+    "Football World C... FWC": {
+      "eventName": "Football World C... FWC",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Two big burning events",
+      "eventAddingDate": "Added 4 months ago",
+      "image": "https://coindar.org//images/coins/football-world-community/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "August 20, 2023 UTC"
+    }
+  },
+  {
+    "FloorDAO FLOOR": {
+      "eventName": "FloorDAO FLOOR",
+      "eventSubject": "Codebase Audit",
+      "eventDescription": "FloorDAO has successfully completed the first code review of its Floor V2. The review identified several bugs of varying severity levels. These bugs a…",
+      "eventAddingDate": "Added 2 days ago",
+      "image": "https://coindar.org//images/coins/floordao/64x64.png",
+      "eventType": "Update",
+      "eventDate": "August 21, 2023 UTC"
+    },
+    "Alien Worlds TLM": {
+      "eventName": "Alien Worlds TLM",
+      "eventSubject": "Tournament",
+      "eventDescription": "Alien Worlds has announced the commencement of the “Battle of the Worlds” tournament, which is scheduled to run for a duration of one month, starting …",
+      "eventAddingDate": "Added 26 days ago",
+      "image": "https://coindar.org//images/coins/alien-worlds/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 21, 2023 UTC"
+    },
+    "Iagon IAG": {
+      "eventName": "Iagon IAG",
+      "eventSubject": "Liquidity Reward Program",
+      "eventDescription": "The liquidity reward program starts August 21st",
+      "eventAddingDate": "Added 4 months ago",
+      "image": "https://coindar.org//images/coins/iagon/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "August 21, 2023 UTC"
+    }
+  },
+  {
+    "Nervos Network CKB": {
+      "eventName": "Nervos Network CKB",
+      "eventSubject": "AMA on Reddit",
+      "eventDescription": "Nervos Network has announced an upcoming event that will take place on Reddit. The event is scheduled for August 22nd at 17:30 UTC. The event will fea…",
+      "eventAddingDate": "Added 4 days ago",
+      "image": "https://coindar.org//images/coins/nervos-network/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 22, 2023 UTC"
+    },
+    "LOCGame LOCG": {
+      "eventName": "LOCGame LOCG",
+      "eventSubject": "Developer Conference in Cologne",
+      "eventDescription": "LOCGame will attend Developer Conference in Cologne, Germany",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "August 22, 2023 UTC"
+    }
+  },
+  {
+    "Lybra Finance LBR": {
+      "eventName": "Lybra Finance LBR",
+      "eventSubject": "Halborn Audit Report",
+      "eventDescription": "Lybra Finance has entered into a partnership with Halborn, a leading cybersecurity firm and code auditor. The collaboration is focused on the V2 audit…",
+      "eventAddingDate": "Added 10 days ago",
+      "image": "https://coindar.org//images/coins/lybra-finance/64x64.png",
+      "eventType": "Report",
+      "eventDate": "August 23, 2023 UTC"
+    },
+    "Divi DIVI": {
+      "eventName": "Divi DIVI",
+      "eventSubject": "Divi v.3.0 Launch",
+      "eventDescription": "Divi is set to release its new version, Divi v.3.0, on August 23rd. This update is mandatory for desktop users of both Windows and Mac operating syste…",
+      "eventAddingDate": "Added 13 days ago",
+      "image": "https://coindar.org//images/coins/divi/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 23, 2023 UTC"
+    },
+    "BOSAGORA BOA": {
+      "eventName": "BOSAGORA BOA",
+      "eventSubject": "Withdrawal Upgrade",
+      "eventDescription": "BOSAGORA has announced that it will be implementing a withdrawal upgrade. The upgrade process is scheduled to start on August 23rd at 01:05:53 am (UTC…",
+      "eventAddingDate": "Added 17 days ago",
+      "image": "https://coindar.org//images/coins/bosagora/64x64.png",
+      "eventType": "Update",
+      "eventDate": "August 23, 2023 UTC"
+    },
+    "RocketX exchange RVF": {
+      "eventName": "RocketX exchange RVF",
+      "eventSubject": "Referral Rewards Distribution",
+      "eventDescription": "RocketX announces the next date of referral rewards distribution which will take place on August 23rd.",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/rocketx-exchange/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "August 23, 2023 UTC"
+    }
+  },
+  {
+    "Rejuve.AI RJV": {
+      "eventName": "Rejuve.AI RJV",
+      "eventSubject": "International Longevity Summit in Johannesburg",
+      "eventDescription": "Rejuve.AI CEO Jasmine Smith will be speaking at the International Longevity Summit in South Africa, which will take place on August 23th-24th.",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "August 24, 2023 UTC"
+    }
+  },
+  {
+    "StreamCoin STRM": {
+      "eventName": "StreamCoin STRM",
+      "eventSubject": "Pixel Friends Airdrop",
+      "eventDescription": "StreamCoin has announced the launch of Pixel Friends, a series of airdrop events exclusively targeting newly registered STRMNFT users. A total of 10,0…",
+      "eventAddingDate": "Added 20 days ago",
+      "image": "https://coindar.org//images/coins/streamcoin/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "August 25, 2023 UTC"
+    },
+    "Nervos Network CKB": {
+      "eventName": "Nervos Network CKB",
+      "eventSubject": "Coinfest Asia in Bali",
+      "eventDescription": "Nervos Network is set to participate in the Coinfest Asia, an insight and networking festival, scheduled for August 24th-25th in Bali, Indonesia. The …",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "August 25, 2023 UTC"
+    }
+  },
+  {
+    "Comdex CMDX": {
+      "eventName": "Comdex CMDX",
+      "eventSubject": "Hackathon Ends",
+      "eventDescription": "Comdex launches its first hackathon in partnership with DoraHacks. The focus on this hackathon is to craft innovative and sustainable solutions on-cha…",
+      "eventAddingDate": "Added 17 days ago",
+      "image": "https://coindar.org//images/coins/comdex/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 26, 2023 UTC"
+    },
+    "Tokocrypto TKO": {
+      "eventName": "Tokocrypto TKO",
+      "eventSubject": "Crypto Classes on Google Meet",
+      "eventDescription": "Tokocrypto is organizing a series of online sessions with a trader. The sessions are aimed at providing updates and discussing trading strategies rela…",
+      "eventAddingDate": "Added 24 days ago",
+      "image": "https://coindar.org//images/coins/tokocrypto/64x64.png",
+      "eventType": "AMA",
+      "eventDate": "August 26, 2023 UTC"
+    }
+  },
+  {
+    "XPLA XPLA": {
+      "eventName": "XPLA XPLA",
+      "eventSubject": "Hackathon",
+      "eventDescription": "XPLA is set to host an online hackathon titled #BEYONDBOUNDARIES in collaboration with #Oasys. The event is scheduled to commence on the 18th of Augus…",
+      "eventAddingDate": "Added 10 days ago",
+      "image": "https://coindar.org//images/coins/xpla/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 27, 2023 UTC"
+    }
+  },
+  {
+    "B-cube.ai BCUBE": {
+      "eventName": "B-cube.ai BCUBE",
+      "eventSubject": "AI Meta Bots Launch",
+      "eventDescription": "B-cube.ai is set to launch its new product, AI Meta Bots, on August 28th at 8:00 UTC. This product is the latest addition to the B-cube.ai’s suite of …",
+      "eventAddingDate": "Added 20 days ago",
+      "image": "https://coindar.org//images/coins/b-cube-ai/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 28, 2023 UTC"
+    }
+  },
+  {
+    "Tarot TAROT": {
+      "eventName": "Tarot TAROT",
+      "eventSubject": "Token Swap Ends",
+      "eventDescription": "Tarot has announced a migration from its v1 TAROT to the v2 TAROT token. The migration process is to be carried out through the Tarot User Interface (…",
+      "eventAddingDate": "Added 11 days ago",
+      "image": "https://coindar.org//images/coins/tarot/64x64.png",
+      "eventType": "Swap",
+      "eventDate": "August 29, 2023 UTC"
+    },
+    "Gitcoin GTC": {
+      "eventName": "Gitcoin GTC",
+      "eventSubject": "Gitcoin Grants Program",
+      "eventDescription": "The upcoming Gitcoin-hosted round will start from August 15th to August 29th.",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/gitcoin/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 29, 2023 UTC"
+    }
+  },
+  {
+    "Nervos Network CKB": {
+      "eventName": "Nervos Network CKB",
+      "eventSubject": "Science of Blockchain Conference in Stanford",
+      "eventDescription": "Nervos Network has been slated to attend the Science of Blockchain Conference, taking place from August 28th-30th in Stanford, USA. This event, with i…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "August 30, 2023 UTC"
+    }
+  },
+  {
+    "Tusima Network TSM": {
+      "eventName": "Tusima Network TSM",
+      "eventSubject": "Airdrop",
+      "eventDescription": "CollabLand provides airdrop rewards to Tusima DAO community members. In accordance with the proposal approved through community voting, Tusima will di…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/tusima-network/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "August 31, 2023 UTC"
+    }
+  },
+  {
+    "OpenOcean OOE": {
+      "eventName": "OpenOcean OOE",
+      "eventSubject": "New Chain Launch",
+      "eventDescription": "OpenOcean is planning to launch another chain within the current month. The specific details of the chain are yet to be disclosed.",
+      "eventAddingDate": "Added 13 hours ago",
+      "image": "https://coindar.org//images/coins/openocean/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 2023 UTC"
+    },
+    "Urus Token URUS": {
+      "eventName": "Urus Token URUS",
+      "eventSubject": "Aurox Founders NFT Launch",
+      "eventDescription": "Urus Token is set to launch the Aurox Founders NFT next week.",
+      "eventAddingDate": "Added 2 days ago",
+      "image": "https://coindar.org//images/coins/urus-token/64x64.png",
+      "eventType": "NFT",
+      "eventDate": "August 2023 UTC"
+    },
+    "GameFi GAFI": {
+      "eventName": "GameFi GAFI",
+      "eventSubject": "Partnership With Mighty Labs",
+      "eventDescription": "GameFi is set to collaborate with Mighty Labs for a unique collection. This collaboration will see the release of 500 limited Pioneer NFTs. The sale o…",
+      "eventAddingDate": "Added 6 days ago",
+      "image": "https://coindar.org//images/coins/gamefi/64x64.png",
+      "eventType": "Partnership",
+      "eventDate": "August 2023 UTC"
+    },
+    "Lybra Finance LBR": {
+      "eventName": "Lybra Finance LBR",
+      "eventSubject": "Lybra Finance v.2 Launch",
+      "eventDescription": "Lybra Finance is nearing the completion of its V2 development. The company has announced that audit reports from Code4rena, Consensys, and Halborn are…",
+      "eventAddingDate": "Added 9 days ago",
+      "image": "https://coindar.org//images/coins/lybra-finance/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 2023 UTC"
+    },
+    "Nakamoto Games NAKA": {
+      "eventName": "Nakamoto Games NAKA",
+      "eventSubject": "Spooky Run 2.0 Update",
+      "eventDescription": "Nakamoto Games has announced the release of the 2.0 version of Spooky Run, which is now live. This update promises an enhanced running adventure for i…",
+      "eventAddingDate": "Added 9 days ago",
+      "image": "https://coindar.org//images/coins/nakamoto-games/64x64.png",
+      "eventType": "Update",
+      "eventDate": "August 2023 UTC"
+    },
+    "Kromatika KROM": {
+      "eventName": "Kromatika KROM",
+      "eventSubject": "Liquidity Mining",
+      "eventDescription": "Kromatika has confirmed that the liquidity mining proposal has been approved.",
+      "eventAddingDate": "Added 9 days ago",
+      "image": "https://coindar.org//images/coins/kromatika/64x64.png",
+      "eventType": "Announcement",
+      "eventDate": "August 2023 UTC"
+    },
+    "Octopus Network OCT": {
+      "eventName": "Octopus Network OCT",
+      "eventSubject": "New Feature of Octopus 2.0",
+      "eventDescription": "Octopus Network is set to launch a key feature of Octopus 2.0 in August. The company has not yet revealed what this feature will be, but it is expecte…",
+      "eventAddingDate": "Added 12 days ago",
+      "image": "https://coindar.org//images/coins/octopus-network/64x64.png",
+      "eventType": "Update",
+      "eventDate": "August 2023 UTC"
+    },
+    "AirSwap AST": {
+      "eventName": "AirSwap AST",
+      "eventSubject": "Contract Security Audit",
+      "eventDescription": "AirSwap has submitted a request for a contract security audit. The audit, which will be conducted by PeckShield, will cover both the Pool and Registry…",
+      "eventAddingDate": "Added 12 days ago",
+      "image": "https://coindar.org//images/coins/airswap/64x64.png",
+      "eventType": "General",
+      "eventDate": "August 2023 UTC"
+    },
+    "Horizen ZEN": {
+      "eventName": "Horizen ZEN",
+      "eventSubject": "ZEN v.4.1 Testnet Launch",
+      "eventDescription": "Horizen is going to release a mandatory software upgrade of ZEN v.4.1. The new version will be released on testnet in August.",
+      "eventAddingDate": "Added 13 days ago",
+      "image": "https://coindar.org//images/coins/horizen/64x64.png",
+      "eventType": "Testing",
+      "eventDate": "August 2023 UTC"
+    },
+    "Zignaly ZIG": {
+      "eventName": "Zignaly ZIG",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Zignaly has announced that the next buy back and burn is expected to take place in the coming month.",
+      "eventAddingDate": "Added 16 days ago",
+      "image": "https://coindar.org//images/coins/zignaly/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "August 2023 UTC"
+    },
+    "LootBot LOOT": {
+      "eventName": "LootBot LOOT",
+      "eventSubject": "LootBot Paid Version Launch",
+      "eventDescription": "LootBot has officially announced that the paid version and revenue-sharing will be activated in the first week of August. This implies that the curren…",
+      "eventAddingDate": "Added 16 days ago",
+      "image": "https://coindar.org//images/coins/lootbot/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 2023 UTC"
+    },
+    "Okratech Token ORT": {
+      "eventName": "Okratech Token ORT",
+      "eventSubject": "Roadmap",
+      "eventDescription": "Okratech Token is going to release its roadmap in August.",
+      "eventAddingDate": "Added 17 days ago",
+      "image": "https://coindar.org//images/coins/okratech-token/64x64.png",
+      "eventType": "Branding",
+      "eventDate": "August 2023 UTC"
+    },
+    "Zebec Protocol ZBC": {
+      "eventName": "Zebec Protocol ZBC",
+      "eventSubject": "Nautilus Mainnet Launch",
+      "eventDescription": "According to Zebec Protocol’s roadmap, they are to launch Nautilus mainnet in August 2023.",
+      "eventAddingDate": "Added 18 days ago",
+      "image": "https://coindar.org//images/coins/zebec-protocol/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 2023 UTC"
+    },
+    "Yieldification YDF": {
+      "eventName": "Yieldification YDF",
+      "eventSubject": "Platform Update",
+      "eventDescription": "Yieldification is set to introduce a series of updates to its YDF platform in August. These updates are aimed at enhancing the user experience and the…",
+      "eventAddingDate": "Added 18 days ago",
+      "image": "https://coindar.org//images/coins/yieldification/64x64.png",
+      "eventType": "Update",
+      "eventDate": "August 2023 UTC"
+    },
+    "Solv Protocol SOLV": {
+      "eventName": "Solv Protocol SOLV",
+      "eventSubject": "ETH Benchmarked Strategy on LSD Launch",
+      "eventDescription": "According to Solv Protocol’s roadmap, they are going to launch the ETH benchmarked strategy on LSD in August 2023.",
+      "eventAddingDate": "Added 18 days ago",
+      "image": "https://coindar.org//images/coins/solv-protocol/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 2023 UTC"
+    },
+    "Voyager Token VGX": {
+      "eventName": "Voyager Token VGX",
+      "eventSubject": "Ethos App v.1.1 Release",
+      "eventDescription": "Voyager Token is set to release version 1.1 of its app in early August. This update will allow users to link their airdrop email address to their acco…",
+      "eventAddingDate": "Added 22 days ago",
+      "image": "https://coindar.org//images/coins/ethos/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 2023 UTC"
+    },
+    "Dash 2 Trade D2T": {
+      "eventName": "Dash 2 Trade D2T",
+      "eventSubject": "Major Software Update",
+      "eventDescription": "Dash 2 Trade has announced a significant software update that is set to be released early next month. This update is expected to introduce a variety o…",
+      "eventAddingDate": "Added 23 days ago",
+      "image": "https://coindar.org//images/coins/no-image-coin/64x64.png",
+      "eventType": "Update",
+      "eventDate": "August 2023 UTC"
+    },
+    "Shiba Inu SHIB": {
+      "eventName": "Shiba Inu SHIB",
+      "eventSubject": "L2 Shibarium Launch",
+      "eventDescription": "Shiba Inu lead developer Shitoshi Kusama has announced the launch of layer 2, Shibarium. The launch is expected to take place during the Blockchain Fu…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/shiba-inu/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 2023 UTC"
+    },
+    "Bumper BUMP": {
+      "eventName": "Bumper BUMP",
+      "eventSubject": "Bumper Protocol Launch",
+      "eventDescription": "The protocol will be launched in August 2023",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/bumper/64x64.png",
+      "eventType": "Release",
+      "eventDate": "August 2023 UTC"
+    },
+    "CrowdSwap CROWD": {
+      "eventName": "CrowdSwap CROWD",
+      "eventSubject": "Ambassador Contest Ends",
+      "eventDescription": "CrowdSwap hosts an ambassador contest. The minimum investment to qualify is $100,000.",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/crowdswap/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "August 2023 UTC"
+    },
+    "Uhive HVE2": {
+      "eventName": "Uhive HVE2",
+      "eventSubject": "Airdrop",
+      "eventDescription": "Airdrop distribution will be in August",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/coins/uhive/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "August 2023 UTC"
+    },
+    "Coreum CORE": {
+      "eventName": "Coreum CORE",
+      "eventSubject": "Airdrop",
+      "eventDescription": "The next airdrop will be in August",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/coins/coreum/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "August 2023 UTC"
+    },
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "The next airdrop will be in August",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "August 2023 UTC"
+    }
+  },
+  {
+    "UBXS Token UBXS": {
+      "eventName": "UBXS Token UBXS",
+      "eventSubject": "Referral Program Ends",
+      "eventDescription": "UBXS hosts a new referral program. Users will earn a 10% commission from their referred users' stake amount in UBXS. Additionally, 15% of the stake am…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/ubxs-token/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "September 1, 2023 UTC"
+    },
+    "Metahero HERO": {
+      "eventName": "Metahero HERO",
+      "eventSubject": "First Scanner Live",
+      "eventDescription": "The medical applications for this technology are often overlooked but it's a sector Metahero believes has a world of opportunities. Opportunities that…",
+      "eventAddingDate": "Added 4 months ago",
+      "image": "https://coindar.org//images/coins/metahero/64x64.png",
+      "eventType": "Release",
+      "eventDate": "September 1, 2023 UTC"
+    }
+  },
+  {
+    "THOL Token THOL": {
+      "eventName": "THOL Token THOL",
+      "eventSubject": "ETH Warsaw in Warsaw",
+      "eventDescription": "Angel Block will be participating in ETH Warsaw, a dynamic conference and hackathon taking place in Warsaw, Poland, from August 31st to September 3rd.",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 3, 2023 UTC"
+    }
+  },
+  {
+    "Nervos Network CKB": {
+      "eventName": "Nervos Network CKB",
+      "eventSubject": "Korea Blockchain Week in Seoul",
+      "eventDescription": "Nervos Network is set to participate in Korea Blockchain Week. This event, scheduled for September 5th-6th in Seoul, South Korea, serves as a prominen…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 6, 2023 UTC"
+    }
+  },
+  {
+    "dForce Token DF": {
+      "eventName": "dForce Token DF",
+      "eventSubject": "DForce Conflux Boost Campaign",
+      "eventDescription": "Starting July 14th and continuing for the next eight weeks until September 8th, dForce will earmark 70,000 DF tokens weekly to stimulate lending and b…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/dforce-token/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "September 8, 2023 UTC"
+    }
+  },
+  {
+    "World Mobile Token WMT": {
+      "eventName": "World Mobile Token WMT",
+      "eventSubject": "Early Staking Snapshot",
+      "eventDescription": "World Mobile Token has announced that the early staking rewards for the month of July are now available for claim. The next snapshot for this process …",
+      "eventAddingDate": "Added 4 days ago",
+      "image": "https://coindar.org//images/coins/world-mobile-token/64x64.png",
+      "eventType": "Announcement",
+      "eventDate": "September 9, 2023 UTC"
+    },
+    "Conflux Token CFX": {
+      "eventName": "Conflux Token CFX",
+      "eventSubject": "Hard Fork",
+      "eventDescription": "Conflux Token is set to undergo a hardfork upgrade to version 2.3.0 est. on September 9. This upgrade will incorporate several Conflux Improvement Pro…",
+      "eventAddingDate": "Added 5 days ago",
+      "image": "https://coindar.org//images/coins/conflux-token/64x64.png",
+      "eventType": "Hard Fork",
+      "eventDate": "September 9, 2023 UTC"
+    }
+  },
+  {
+    "NFTb NFTB": {
+      "eventName": "NFTb NFTB",
+      "eventSubject": "Korea Blockchain Week in Seoul",
+      "eventDescription": "The NFTb team will take part in Korea Blockchain Week in Seoul, South Korea on Sep 4th-10th. Their main focus during this visit will be to explore pot…",
+      "eventAddingDate": "Added 28 days ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 10, 2023 UTC"
+    },
+    "Near NEAR": {
+      "eventName": "Near NEAR",
+      "eventSubject": "APAC 2023 in Ho Chi Minh City",
+      "eventDescription": "Near will host Near APAC 2023, the conference and exhibition, which will take place in Ho Chi Minh City. The event will be held at Thiskyhall from Sep…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 10, 2023 UTC"
+    },
+    "tomiNet TOMI": {
+      "eventName": "tomiNet TOMI",
+      "eventSubject": "Korea Blockchain Week in Seoul",
+      "eventDescription": "TomiNet will participate in the Korean Blockchain Week in Seoul, South Korea, which will take place on September 4th — 10th. Korea Blockchain Week bri…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 10, 2023 UTC"
+    },
+    "MOBIX MOBX": {
+      "eventName": "MOBIX MOBX",
+      "eventSubject": "IAA Mobility in Munich",
+      "eventDescription": "MOBIX will take part at the IAA Mobility Summit in Munich, Germany which will take place on September 5th-10th.",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 10, 2023 UTC"
+    },
+    "Holoride RIDE": {
+      "eventName": "Holoride RIDE",
+      "eventSubject": "IAA MOBILITY in Munich",
+      "eventDescription": "Holoride will take part in IAA MOBILITY in Munich, Germany",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 10, 2023 UTC"
+    }
+  },
+  {
+    "SweatCoin SWEAT": {
+      "eventName": "SweatCoin SWEAT",
+      "eventSubject": "Wallet App Launch for US",
+      "eventDescription": "Sweat and the Sweat Wallet app will be launching in US, September 12th 2023",
+      "eventAddingDate": "Added 5 months ago",
+      "image": "https://coindar.org//images/coins/sweatcoin/64x64.png",
+      "eventType": "Release",
+      "eventDate": "September 12, 2023 UTC"
+    }
+  },
+  {
+    "Bumper BUMP": {
+      "eventName": "Bumper BUMP",
+      "eventSubject": "Permissionless in Austin",
+      "eventDescription": "Bumper’s chief technology officer, Sam Brooks, is scheduled to deliver a keynote address at the Permissionless conference. The event is set to take pl…",
+      "eventAddingDate": "Added 17 days ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 13, 2023 UTC"
+    },
+    "Kava.io KAVA": {
+      "eventName": "Kava.io KAVA",
+      "eventSubject": "Permissionless II in Austin",
+      "eventDescription": "Kava has announced its participation in the high-profile cryptocurrency event, Permissionless II. The conference, scheduled for September 11-13 in Aus…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 13, 2023 UTC"
+    },
+    "Fractal FCL": {
+      "eventName": "Fractal FCL",
+      "eventSubject": "DappCon in Berlin",
+      "eventDescription": "Fractal will take part at DappCon, a global developer conference for Ethereum Dapps and Infrastructure, organized by Gnosis DAO",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 13, 2023 UTC"
+    }
+  },
+  {
+    "MATH MATH": {
+      "eventName": "MATH MATH",
+      "eventSubject": "TOKEN2049 in Singapore",
+      "eventDescription": "MATH will take part in TOKEN2049 in Singapore. The event is scheduled to take place on the 13th and 14th of September.",
+      "eventAddingDate": "Added 16 days ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 14, 2023 UTC"
+    },
+    "Nervos Network CKB": {
+      "eventName": "Nervos Network CKB",
+      "eventSubject": "Token2049 in Singapore",
+      "eventDescription": "Nervos Network will be attending the Token2049 in Singapore, an event where the founders and executives of the leading Web3 companies and projects sha…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 14, 2023 UTC"
+    },
+    "Fractal FCL": {
+      "eventName": "Fractal FCL",
+      "eventSubject": "TOKEN 2049 in Singapore",
+      "eventDescription": "Fractal will be attending TOKEN 2049 in Singapore on September 13th-14th",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 14, 2023 UTC"
+    },
+    "SKALE SKL": {
+      "eventName": "SKALE SKL",
+      "eventSubject": "Token 2049 in Singapore",
+      "eventDescription": "SKALE Labs CEO and Co-Founder, Jack O'Holleran will be speaking at Token 2049 in Singapore",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 14, 2023 UTC"
+    }
+  },
+  {
+    "Flashstake FLASH": {
+      "eventName": "Flashstake FLASH",
+      "eventSubject": "Airdrop",
+      "eventDescription": "Flashstake has announced that holders of its FLASH tokens will be eligible to receive genesis tokens of Epoch at a 1:1 ratio. This event is set to tak…",
+      "eventAddingDate": "Added 12 days ago",
+      "image": "https://coindar.org//images/coins/flash-stake/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "September 15, 2023 UTC"
+    },
+    "Spool DAO Token SPOOL": {
+      "eventName": "Spool DAO Token SPOOL",
+      "eventSubject": "Zealy Campaign Ends",
+      "eventDescription": "Spool DAO Token has initiated a Zealy campaign. The campaign, which started on July 17th, will run until the 15th of September. A total of 30 particip…",
+      "eventAddingDate": "Added 26 days ago",
+      "image": "https://coindar.org//images/coins/spool-dao-token/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "September 15, 2023 UTC"
+    }
+  },
+  {
+    "Sidus SIDUS": {
+      "eventName": "Sidus SIDUS",
+      "eventSubject": "First of His Kind Book Release",
+      "eventDescription": "The book will be released in September",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/sidus/64x64.png",
+      "eventType": "Branding",
+      "eventDate": "September 18, 2023 UTC"
+    }
+  },
+  {
+    "Polkadot DOT": {
+      "eventName": "Polkadot DOT",
+      "eventSubject": "Developer Conference in Lisbon",
+      "eventDescription": "Polkadot is hosting an event named sub0, the Polkadot Developer Conference, in Lisbon, which is aimed at builders, innovators, and forward thinkers. T…",
+      "eventAddingDate": "Added 23 days ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 20, 2023 UTC"
+    }
+  },
+  {
+    "DSLA Protocol DSLA": {
+      "eventName": "DSLA Protocol DSLA",
+      "eventSubject": "DSLA Wallet Beta",
+      "eventDescription": "A cryptocurrency wallet dedicated to DSLA Service Credits, that augments the shopping experience of all your favourite online marketplaces with the Ri…",
+      "eventAddingDate": "Added 6 months ago",
+      "image": "https://coindar.org//images/coins/dsla-protocol/64x64.png",
+      "eventType": "Release",
+      "eventDate": "September 21, 2023 UTC"
+    }
+  },
+  {
+    "Litecoin LTC": {
+      "eventName": "Litecoin LTC",
+      "eventSubject": "Proof-of-Work Summit in Prague",
+      "eventDescription": "Litecoin will take part in the Proof-of-Work summit in Prague on September 25-27.",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 27, 2023 UTC"
+    },
+    "Radix XRD": {
+      "eventName": "Radix XRD",
+      "eventSubject": "Bablyon Network Upgrade",
+      "eventDescription": "The Radix Public Network upgrade from Olympia to Babylon will occur on or about September 27th",
+      "eventAddingDate": "Added 4 months ago",
+      "image": "https://coindar.org//images/coins/radix/64x64.png",
+      "eventType": "Hard Fork",
+      "eventDate": "September 27, 2023 UTC"
+    }
+  },
+  {
+    "Stellar XLM": {
+      "eventName": "Stellar XLM",
+      "eventSubject": "Meridian 2023 in Madrid",
+      "eventDescription": "Idris Elba will take part at Meridian 2023 in Madrid, on September 26th, with the spotlight on real-world use cases, and a whole lot more",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "September 28, 2023 UTC"
+    }
+  },
+  {
+    "FTX Token FTT": {
+      "eventName": "FTX Token FTT",
+      "eventSubject": "Customer Bar Date Opens",
+      "eventDescription": "The FTX Debtors’ “Customer Bar Date” has been set for September 29, 2023, at 8 PM UTC",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/ftx-token/64x64.png",
+      "eventType": "General",
+      "eventDate": "September 29, 2023 UTC"
+    }
+  },
+  {
+    "Bitkub Coin KUB": {
+      "eventName": "Bitkub Coin KUB",
+      "eventSubject": "Transition From PoSA to PoS Mechanism",
+      "eventDescription": "Bitkub Chain will make a transition of their consensus mechanism from Proof-of-Stake- Authority (PoSA) to Proof-of-Stake (PoS) starting from the 1st o…",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/coins/bitkub-coin/64x64.png",
+      "eventType": "Update",
+      "eventDate": "September 30, 2023 UTC"
+    }
+  },
+  {
+    "Bluelight KALE": {
+      "eventName": "Bluelight KALE",
+      "eventSubject": "Project Complexity Expansion",
+      "eventDescription": "Bluelight has announced plans for September, which include an increase in the complexity of their projects. This is aimed at enhancing the user experi…",
+      "eventAddingDate": "Added 2 days ago",
+      "image": "https://coindar.org//images/coins/bluelight/64x64.png",
+      "eventType": "Update",
+      "eventDate": "September 2023 UTC"
+    },
+    "Horizen ZEN": {
+      "eventName": "Horizen ZEN",
+      "eventSubject": "ZEN v.4.1 Mainnet Launch",
+      "eventDescription": "Horizen is going to release a mandatory software upgrade of ZEN v.4.1. The new version will be released on mainnet in September.",
+      "eventAddingDate": "Added 13 days ago",
+      "image": "https://coindar.org//images/coins/horizen/64x64.png",
+      "eventType": "Release",
+      "eventDate": "September 2023 UTC"
+    },
+    "Realms of Ethernity RETH": {
+      "eventName": "Realms of Ethernity RETH",
+      "eventSubject": "Beta Web Game Release",
+      "eventDescription": "Plans for the future",
+      "eventAddingDate": "Added 8 months ago",
+      "image": "https://coindar.org//images/coins/no-image-coin/64x64.png",
+      "eventType": "Testing",
+      "eventDate": "September 2023 UTC"
+    },
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "Plans for the future",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "September 2023 UTC"
+    }
+  },
+  {
+    "Verasity VRA": {
+      "eventName": "Verasity VRA",
+      "eventSubject": "Demo Account",
+      "eventDescription": "Demo account available for publishers",
+      "eventAddingDate": "Added 6 months ago",
+      "image": "https://coindar.org//images/coins/verasity/64x64.png",
+      "eventType": "Release",
+      "eventDate": "Until September 30, 2023 UTC"
+    },
+    "Branaverse BRANA": {
+      "eventName": "Branaverse BRANA",
+      "eventSubject": "NFT Marketplace Launch",
+      "eventDescription": "Roadmap for 2023",
+      "eventAddingDate": "Added 7 months ago",
+      "image": "https://coindar.org//images/coins/branaverse/64x64.png",
+      "eventType": "Release",
+      "eventDate": "Until September 30, 2023 UTC"
+    },
+    "DODO DODO": {
+      "eventName": "DODO DODO",
+      "eventSubject": "DODO v.3.0 (3rd Phase)",
+      "eventDescription": "This phase of the DODOV3 upgrade marks the launch of DODO’s Decentralized Mutual Fund tool",
+      "eventAddingDate": "Added 7 months ago",
+      "image": "https://coindar.org//images/coins/dodo/64x64.png",
+      "eventType": "Update",
+      "eventDate": "Until September 30, 2023 UTC"
+    },
+    "Legend of Fantas... LFW": {
+      "eventName": "Legend of Fantas... LFW",
+      "eventSubject": "Yield Aggregator",
+      "eventDescription": "The new LFW roadmap for 2023",
+      "eventAddingDate": "Added 7 months ago",
+      "image": "https://coindar.org//images/coins/legend-of-fantasy-war/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "Until September 30, 2023 UTC"
+    },
+    "Alchemy Pay ACH": {
+      "eventName": "Alchemy Pay ACH",
+      "eventSubject": "NFT Marketplace Launch",
+      "eventDescription": "Roadmap reveal",
+      "eventAddingDate": "Added 7 months ago",
+      "image": "https://coindar.org//images/coins/alchemy-pay/64x64.png",
+      "eventType": "Release",
+      "eventDate": "Until September 30, 2023 UTC"
+    },
+    "Biswap BSW": {
+      "eventName": "Biswap BSW",
+      "eventSubject": "UI/UX Improvements",
+      "eventDescription": "Roadmap for next year",
+      "eventAddingDate": "Added 7 months ago",
+      "image": "https://coindar.org//images/coins/biswap/64x64.png",
+      "eventType": "Update",
+      "eventDate": "Until September 30, 2023 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Roadmap for next year",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "October 2, 2023 UTC"
+    }
+  },
+  {
+    "Gods Unchained GODS": {
+      "eventName": "Gods Unchained GODS",
+      "eventSubject": "Staking Program End",
+      "eventDescription": "The new-and-improved manual staking program is live until October 4th, 2023",
+      "eventAddingDate": "Added 5 months ago",
+      "image": "https://coindar.org//images/coins/gods-unchained/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "October 4, 2023 UTC"
+    }
+  },
+  {
+    "Bumper BUMP": {
+      "eventName": "Bumper BUMP",
+      "eventSubject": "Zebu Live in London",
+      "eventDescription": "Bumper will attend the Zebu Live conference in London. The event will take place from October 5 to October 6. The conference will focus on topics rela…",
+      "eventAddingDate": "Added 18 days ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "October 6, 2023 UTC"
+    },
+    "GateToken GT": {
+      "eventName": "GateToken GT",
+      "eventSubject": "Synopsis Summit in Istanbul",
+      "eventDescription": "Gate.io will be attending the Synopsis Summit in Istanbul, Turkey. Gate.io's Head Of Turkey, Kafkas Sonmez will be the speaker, he will talk about the…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "October 6, 2023 UTC"
+    },
+    "Orbs ORBS": {
+      "eventName": "Orbs ORBS",
+      "eventSubject": "Zebu Live in London",
+      "eventDescription": "Orbs will take part in Zebu Live in London, UK",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "October 6, 2023 UTC"
+    },
+    "Verasity VRA": {
+      "eventName": "Verasity VRA",
+      "eventSubject": "Synopsis Summit in Istanbul",
+      "eventDescription": "Verasity will be in-person for 2023's Synopsis Summit, the 6th instalment of this huge crypto event in Istanbul",
+      "eventAddingDate": "Added 3 months ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "October 6, 2023 UTC"
+    }
+  },
+  {
+    "Market Making Pro MMPRO": {
+      "eventName": "Market Making Pro MMPRO",
+      "eventSubject": "WOW Summit in Dubai",
+      "eventDescription": "The MMPRO team will be at WOW Summit, which will take place in Dubai.",
+      "eventAddingDate": "Added 3 months ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "October 9, 2023 UTC"
+    }
+  },
+  {
+    "Cryptocurrencies ": {
+      "eventName": "Cryptocurrencies ",
+      "eventSubject": "European Blockchain Convention in Barcelona",
+      "eventDescription": "Join in Barcelona for a 3-day extravaganza and meet the whole Web3 ecosystem in one go. Experience an unforgettable event featuring 3 stages, a buzzin…",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "October 26, 2023 UTC"
+    }
+  },
+  {
+    "Octopus Network OCT": {
+      "eventName": "Octopus Network OCT",
+      "eventSubject": "Octopus v.2.0 Launch",
+      "eventDescription": "Octopus Network is set to launch Octopus 2.0, which will be integrated with NEAR. This upgrade will feature Restaking, Adaptive IBC bridges, and suppo…",
+      "eventAddingDate": "Added 9 days ago",
+      "image": "https://coindar.org//images/coins/octopus-network/64x64.png",
+      "eventType": "Release",
+      "eventDate": "October 2023 UTC"
+    },
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "Octopus Network is set to launch Octopus 2.0, which will be integrated with NEAR. This upgrade will feature Restaking, Adaptive IBC bridges, and suppo…",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "October 2023 UTC"
+    }
+  },
+  {
+    "Cardano ADA": {
+      "eventName": "Cardano ADA",
+      "eventSubject": "Summit 2023 in Dubai",
+      "eventDescription": "Cardano will hold Cardano Summit 2023 in Dubai, UAE on November 2nd-4th",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "November 4, 2023 UTC"
+    }
+  },
+  {
+    "Poolz Finance POOLX": {
+      "eventName": "Poolz Finance POOLX",
+      "eventSubject": "Binance Blockchain Week 2023 in Istanbul",
+      "eventDescription": "Poolz Finance will take part in the Binance Blockchain Week 2023. The event is scheduled to take place in Istanbul, Turkey on the 8th and 9th of Novem…",
+      "eventAddingDate": "Added 14 days ago",
+      "image": "https://coindar.org//images/blank.gif",
+      "eventType": "Conference",
+      "eventDate": "November 9, 2023 UTC"
+    }
+  },
+  {
+    "EOS EOS": {
+      "eventName": "EOS EOS",
+      "eventSubject": "New Consensus Mechanism",
+      "eventDescription": "EOS has announced that a new consensus mechanism is scheduled for launch on November 28th.",
+      "eventAddingDate": "Added 24 days ago",
+      "image": "https://coindar.org//images/coins/eos/64x64.png",
+      "eventType": "Release",
+      "eventDate": "November 28, 2023 UTC"
+    }
+  },
+  {
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "EOS has announced that a new consensus mechanism is scheduled for launch on November 28th.",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "November 2023 UTC"
+    }
+  },
+  {
+    "Medibloc MED": {
+      "eventName": "Medibloc MED",
+      "eventSubject": "Token Swap",
+      "eventDescription": "The next token swap will be processed on Dec 1st",
+      "eventAddingDate": "Added 2 months ago",
+      "image": "https://coindar.org//images/coins/medibloc/64x64.png",
+      "eventType": "Swap",
+      "eventDate": "December 1, 2023 UTC"
+    },
+    "dYdX DYDX": {
+      "eventName": "dYdX DYDX",
+      "eventSubject": "Lock-up Extension",
+      "eventDescription": "dYdX Trading Inc., dYdX Foundation and certain parties to the Warrants to Purchase Tokens signed an amendment to, among other things, postpone the ini…",
+      "eventAddingDate": "Added 6 months ago",
+      "image": "https://coindar.org//images/coins/dydx/64x64.png",
+      "eventType": "Update",
+      "eventDate": "December 1, 2023 UTC"
+    }
+  },
+  {
+    "Fasttoken FTN": {
+      "eventName": "Fasttoken FTN",
+      "eventSubject": "Harmony Fasttoken 5Talk",
+      "eventDescription": "Fasttoken is organizing the Harmony Fasttoken 5Talk event in Armenia. The event is scheduled to take place from December 12 to 15. The private sale p…",
+      "eventAddingDate": "Added 26 days ago",
+      "image": "https://coindar.org//images/coins/fasttoken/64x64.png",
+      "eventType": "Conference",
+      "eventDate": "December 15, 2023 UTC"
+    }
+  },
+  {
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "Fasttoken is organizing the Harmony Fasttoken 5Talk event in Armenia. The event is scheduled to take place from December 12 to 15. The private sale p…",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "December 2023 UTC"
+    }
+  },
+  {
+    "COTI COTI": {
+      "eventName": "COTI COTI",
+      "eventSubject": "Multiple Asset Support",
+      "eventDescription": "Roadmap for 2023",
+      "eventAddingDate": "Added 5 months ago",
+      "image": "https://coindar.org//images/coins/coti/64x64.png",
+      "eventType": "Update",
+      "eventDate": "Until December 31, 2023 UTC"
+    },
+    "SOMESING SSX": {
+      "eventName": "SOMESING SSX",
+      "eventSubject": "NFT-based Ranking Service",
+      "eventDescription": "Roadmap for 2023",
+      "eventAddingDate": "Added 5 months ago",
+      "image": "https://coindar.org//images/coins/somesing/64x64.png",
+      "eventType": "Release",
+      "eventDate": "Until December 31, 2023 UTC"
+    },
+    "PREMA PRMX": {
+      "eventName": "PREMA PRMX",
+      "eventSubject": "Traceability System",
+      "eventDescription": "Release of traceability system",
+      "eventAddingDate": "Added 6 months ago",
+      "image": "https://coindar.org//images/coins/prema/64x64.png",
+      "eventType": "Release",
+      "eventDate": "Until December 31, 2023 UTC"
+    },
+    "TrustFi Network ... TFI": {
+      "eventName": "TrustFi Network ... TFI",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Roadmap for 2023",
+      "eventAddingDate": "Added 6 months ago",
+      "image": "https://coindar.org//images/coins/trustfi-network-token/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "Until December 31, 2023 UTC"
+    },
+    "RAI Finance RAI": {
+      "eventName": "RAI Finance RAI",
+      "eventSubject": "Modularization of DeFi Functions",
+      "eventDescription": "RAI Finance aims to make DeFi more accessible, with modularization of its DeFi products",
+      "eventAddingDate": "Added 6 months ago",
+      "image": "https://coindar.org//images/coins/rai-finance/64x64.png",
+      "eventType": "Update",
+      "eventDate": "Until December 31, 2023 UTC"
+    },
+    "Verasity VRA": {
+      "eventName": "Verasity VRA",
+      "eventSubject": "UX & UI Improvements VeraWallet",
+      "eventDescription": "VeraWallet - Major UX and UI improvements",
+      "eventAddingDate": "Added 6 months ago",
+      "image": "https://coindar.org//images/coins/verasity/64x64.png",
+      "eventType": "Update",
+      "eventDate": "Until December 31, 2023 UTC"
+    },
+    "DODO DODO": {
+      "eventName": "DODO DODO",
+      "eventSubject": "Index Fund",
+      "eventDescription": "Q4 will bring the launch of DODO’s first index fund",
+      "eventAddingDate": "Added 7 months ago",
+      "image": "https://coindar.org//images/coins/dodo/64x64.png",
+      "eventType": "Release",
+      "eventDate": "Until December 31, 2023 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Q4 will bring the launch of DODO’s first index fund",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "January 2, 2024 UTC"
+    }
+  },
+  {
+    "Polymesh POLYX": {
+      "eventName": "Polymesh POLYX",
+      "eventSubject": "Token Swap Ends",
+      "eventDescription": "Polymesh has announced a limited-time opportunity for holders of POLY tokens. This opportunity allows users to upgrade their Ethereum-based POLY token…",
+      "eventAddingDate": "Added 26 days ago",
+      "image": "https://coindar.org//images/coins/polymesh/64x64.png",
+      "eventType": "Swap",
+      "eventDate": "January 31, 2024 UTC"
+    }
+  },
+  {
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "Polymesh has announced a limited-time opportunity for holders of POLY tokens. This opportunity allows users to upgrade their Ethereum-based POLY token…",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "January 2024 UTC"
+    }
+  },
+  {
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "Polymesh has announced a limited-time opportunity for holders of POLY tokens. This opportunity allows users to upgrade their Ethereum-based POLY token…",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "February 2024 UTC"
+    }
+  },
+  {
+    "Verasity VRA": {
+      "eventName": "Verasity VRA",
+      "eventSubject": "New Staking Rate",
+      "eventDescription": "Verasity is pleased to announce that VRA staking will be extended through to the 31st of March, 2024 at 15%.The new staking rate will be introduced …",
+      "eventAddingDate": "Added 7 months ago",
+      "image": "https://coindar.org//images/coins/verasity/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "March 31, 2024 UTC"
+    }
+  },
+  {
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "Verasity is pleased to announce that VRA staking will be extended through to the 31st of March, 2024 at 15%.The new staking rate will be introduced …",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "March 2024 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Verasity is pleased to announce that VRA staking will be extended through to the 31st of March, 2024 at 15%.The new staking rate will be introduced …",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "April 1, 2024 UTC"
+    }
+  },
+  {
+    "eCASH XEC": {
+      "eventName": "eCASH XEC",
+      "eventSubject": "Block Reward Halving",
+      "eventDescription": "eCASH has officially announced a forthcoming block reward halving scheduled for April 2024. As part of this development, the eCASH block reward is set…",
+      "eventAddingDate": "Added 1 month ago",
+      "image": "https://coindar.org//images/coins/ecash/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "April 11, 2024 UTC"
+    }
+  },
+  {
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "eCASH has officially announced a forthcoming block reward halving scheduled for April 2024. As part of this development, the eCASH block reward is set…",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "April 2024 UTC"
+    }
+  },
+  {
+    "XCAD Network XCAD": {
+      "eventName": "XCAD Network XCAD",
+      "eventSubject": "Token Unlock",
+      "eventDescription": "Unlock postponed until May 2024.",
+      "eventAddingDate": "Added 3 months ago",
+      "image": "https://coindar.org//images/coins/xcad-network/64x64.png",
+      "eventType": "Lock & Unlock",
+      "eventDate": "May 2024 UTC"
+    },
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "Unlock postponed until May 2024.",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "May 2024 UTC"
+    },
+    "Bitcoin BTC": {
+      "eventName": "Bitcoin BTC",
+      "eventSubject": "Block Reward Halving",
+      "eventDescription": "Unlock postponed until May 2024.",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/bitcoin/64x64.png",
+      "eventType": "General",
+      "eventDate": "May 2024 UTC"
+    }
+  },
+  {
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "Unlock postponed until May 2024.",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "June 2024 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Unlock postponed until May 2024.",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "July 1, 2024 UTC"
+    }
+  },
+  {
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "Unlock postponed until May 2024.",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "July 2024 UTC"
+    }
+  },
+  {
+    "IOST IOST": {
+      "eventName": "IOST IOST",
+      "eventSubject": "LOL Airdrop to IOST Holders",
+      "eventDescription": "Unlock postponed until May 2024.",
+      "eventAddingDate": "Added 3 years ago",
+      "image": "https://coindar.org//images/coins/iostoken/64x64.png",
+      "eventType": "Earning",
+      "eventDate": "August 2024 UTC"
+    }
+  },
+  {
+    "Posschain POSS": {
+      "eventName": "Posschain POSS",
+      "eventSubject": "Hackathon",
+      "eventDescription": "Posschain Hackathon 2024",
+      "eventAddingDate": "Added 3 months ago",
+      "image": "https://coindar.org//images/coins/posschain/64x64.png",
+      "eventType": "Contest",
+      "eventDate": "Until September 30, 2024 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Posschain Hackathon 2024",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "October 1, 2024 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Posschain Hackathon 2024",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "January 2, 2025 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Posschain Hackathon 2024",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "April 1, 2025 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Posschain Hackathon 2024",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "July 1, 2025 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "Posschain Hackathon 2024",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "October 1, 2025 UTC"
+    }
+  },
+  {
+    "uShark USHA": {
+      "eventName": "uShark USHA",
+      "eventSubject": "Token Swap",
+      "eventDescription": "For Metamask wallet holders, the swap will be available on uShark plataform from March 20th, 19:00 (UTC+8) to December 30th, 2025, 19:00 (UTC+8)",
+      "eventAddingDate": "Added 5 months ago",
+      "image": "https://coindar.org//images/coins/ushark/64x64.png",
+      "eventType": "Swap",
+      "eventDate": "December 30, 2025 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "For Metamask wallet holders, the swap will be available on uShark plataform from March 20th, 19:00 (UTC+8) to December 30th, 2025, 19:00 (UTC+8)",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "January 2, 2026 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "For Metamask wallet holders, the swap will be available on uShark plataform from March 20th, 19:00 (UTC+8) to December 30th, 2025, 19:00 (UTC+8)",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "April 1, 2026 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "For Metamask wallet holders, the swap will be available on uShark plataform from March 20th, 19:00 (UTC+8) to December 30th, 2025, 19:00 (UTC+8)",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "July 1, 2026 UTC"
+    }
+  },
+  {
+    "Txbit TXBIT": {
+      "eventName": "Txbit TXBIT",
+      "eventSubject": "Token Burn",
+      "eventDescription": "For Metamask wallet holders, the swap will be available on uShark plataform from March 20th, 19:00 (UTC+8) to December 30th, 2025, 19:00 (UTC+8)",
+      "eventAddingDate": "Added 1 year ago",
+      "image": "https://coindar.org//images/coins/txbit/64x64.png",
+      "eventType": "Burning",
+      "eventDate": "October 1, 2026 UTC"
+    }
+  }
+]

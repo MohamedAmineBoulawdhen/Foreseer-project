@@ -37,6 +37,20 @@ function NewsPage() {
     "News Btc",
     "Super Wealthy",
   ];
+  const countryOfRichestPeople: string[] = [
+    "China",
+    "India",
+    "Indonesia",
+    "Korea",
+    "Thailand",
+    "Japan",
+    "Australia",
+    "Taiwan",
+    "Singapore",
+    "Philippines",
+    "Hong-kong",
+    "Malaysia",
+  ];
   const newsCategoryChange = (option: any) => {
     console.log(option);
   };
@@ -81,7 +95,14 @@ function NewsPage() {
           <span className="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400 flex ">
             Richest People
           </span>{" "}
-        </h1>
+        </h1>{" "}
+        <div className="flex justify-end m-6 ">
+          <DropdownList
+            category=""
+            options={countryOfRichestPeople}
+            onSelect={newsCategoryChange}
+          />
+        </div>
         <div className="m-10">
           <RichestPeopleTable />
         </div>
